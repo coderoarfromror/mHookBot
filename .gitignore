@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+=======
+# Node build artifacts
+node_modules
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+
+# Docker
+Dockerfile
+docker-compose.yml
+>>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2

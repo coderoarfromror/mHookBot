@@ -1,0 +1,56 @@
+{
+  "name": "mathhook",
+  "version": "0.2.5",
+  "description": "A sample Node.js app bot for messenger for solving all math problems",
+  "engines": {
+    "node": "7.7.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "batch-api-requests": "0.0.1",
+=======
+>>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2
+    "body-parser": "1.17.1",
+    "crypto": "0.0.3",
+    "csv-write-stream": "^2.0.0",
+    "ejs": "2.4.1",
+    "express": "4.13.3",
+<<<<<<< HEAD
+    "fb-messenger": "^1.1.0",
+    "google-url": "0.0.4",
+=======
+>>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2
+    "jsonfile": "2.4.0",
+    "node-horseman": "3.2.0",
+    "phantomjs-prebuilt": "^2.1.3",
+    "promise": "^7.1.1",
+<<<<<<< HEAD
+    "promise-sequential": "^1.1.1",
+    "qbatcher": "^1.0.2",
+    "request": "2.81.0",
+    "string": "1.0.0",
+    "strsplit": "^1.0.0",
+    "tesseract-wrapper": "^1.1.1",
+    "tesseract.js": "^1.0.10",
+=======
+    "request": "2.81.0",
+    "string": "1.0.0",
+>>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2
+    "util": "^0.10.3",
+    "webshot": "0.18.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/node-js-getting-started"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT"
+}

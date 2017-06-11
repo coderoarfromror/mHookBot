@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+{
+  "name": "MathHook Messenger bot",
+  "description": "A sample Node.js app bot for messenger for solving all math problems",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
+=======
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/heroku/node-js-getting-started",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
+>>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2
