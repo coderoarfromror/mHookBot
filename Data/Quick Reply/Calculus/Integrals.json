@@ -1,0 +1,41 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Indefinite",
+        "payload":"indefinite-integral-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Definite",
+        "payload":"definite-integral-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"AntiDerivatives",
+        "payload":"antiderivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Double",
+        "payload":"double-integrals-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Triple",
+        "payload":"triple-integrals-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiple",
+        "payload":"multiple-integrals-calculator"
+      }
+     ]
+  }
+}

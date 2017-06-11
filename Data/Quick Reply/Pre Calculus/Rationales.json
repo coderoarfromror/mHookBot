@@ -1,0 +1,26 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"join",
+        "payload":"pre-calculus-join-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Cancel",
+        "payload":"pre-calculus-cancel-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Partial Fractions",
+        "payload":"pre-calculus-partial-fractions-calculator"
+      }
+        ]
+  }
+}

@@ -1,0 +1,26 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+                                "content_type": "text",
+                                    "title": "Convergence Series",
+                                "payload": "series-convergence-calculator"
+                                },
+                                {
+                                "content_type": "text",
+                                    "title": "Absolute Series",
+                                "payload": "series-absolute-convergence-calculator"
+                                },
+                                {
+                                "content_type": "text",
+                                    "title": "Power Series",
+                                "payload": "power-series-calculator"
+                                } 
+     ]
+  }
+}

@@ -1,0 +1,200 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Equations",
+                  "subtitle":"Solve pre-calculus equations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear",
+                        "payload":"pre-calculus-linear-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Quadratic",
+                        "payload":"pre-calculus-quadratic-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Equations Solver",
+                        "payload":"More Pre Calculus/Equations Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Inequalities",
+                  "subtitle":"Solve linear, quadratic and absolute inequalities, step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-inequalities-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear",
+                        "payload":"pre-calculus-linear-inequalities-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Quadratic",
+                        "payload":"pre-calculus-quadratic-inequalities-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Inequalities Calc.",
+                        "payload":"More Pre Calculus/Inequalities Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"System of Equations",
+                  "subtitle":"Solve system of equations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-system-of-equations-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear",
+                        "payload":"pre-calculus-linear-system-of-equations-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Non-linear",
+                        "payload":"pre-calculus-non-linear-system-of-equations-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"System of Inequalities",
+                  "subtitle":"Graph system of inequalities and find intersections step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-system-of-inequalities-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Equations System",
+                        "payload":"pre-calculus-system-of-inequalities-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Series",
+                  "subtitle":"Test infinite series for convergence step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/series-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Series Solution",
+                        "payload":"More Pre Calculus/Series Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Polynomials",
+                  "subtitle":"Add, subtract, multiply, divide and factor polynomials step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-polynomial-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Add",
+                        "payload":"pre-calculus-polynomial-addition-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Subtract",
+                        "payload":"pre-calculus-polynomial-subtraction-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Polynomials",
+                        "payload":"More Pre Calculus/Polynomials Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Laplace Transform",
+                  "subtitle":"Rationales",
+                  "item_url":"https://www.symbolab.com/solver/rationales-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"join",
+                        "payload":"pre-calculus-join-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Cancel",
+                        "payload":"pre-calculus-cancel-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Rationales",
+                        "payload":"More Pre Calculus/Rationales Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Coordinate Geometry",
+                  "subtitle":"Calculate properties of conic shapes step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-coordinate-geometry-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Line",
+                        "payload":"pre-calculus-line-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Distance",
+                        "payload":"pre-calculus-distance-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Coordinate Geometry",
+                        "payload":"More Pre Calculus/Coordinate Geometry Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Complex Numbers",
+                  "subtitle":"Simplify complex expressions using algebraic rules step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/complex-number-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Complex Numbers",
+                        "payload":"pre-calculus-complex-numbers-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"More Methods",
+                  "subtitle":"Solving Functions, Arithmetic, Conics Sections and Trigonometry",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-functions-calculator",
+                  "image_url":"https://s3.amazonaws.com/calc_thumbs/production/cwayqe3vwh.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More More Pre Calculus"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add/Subtract",
+        "payload":"decimals-addition-subtraction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiplcation",
+        "payload":"decimals-multiplication-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Division",
+        "payload":"decimals-division-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Decimal to Fractions",
+        "payload":"decimal-to-fraction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Fraction To Decimal",
+        "payload":"fractions-to-decimal-calculator"
+      }
+    ]
+  }
+}

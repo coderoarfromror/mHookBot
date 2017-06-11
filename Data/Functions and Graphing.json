@@ -1,0 +1,102 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Line Equations",
+                  "subtitle":"Find the equation of the line step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/line-equation-calculator",
+                  "image_url":"http://www.interactive-maths.com/uploads/1/1/3/4/11345755/110604_orig.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Line",
+                        "payload":"line-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Slope",
+                        "payload":"slope-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Functions and Graphing/Line Equations Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Functions",
+                  "subtitle":"Explore functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/functions-calculator",
+                  "image_url":"http://www.interactive-maths.com/uploads/1/1/3/4/11345755/110604_orig.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Line",
+                        "payload":"line-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Slope",
+                        "payload":"slope-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Functions and Graphing/Functions Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Arithmetics and Compositions",
+                  "subtitle":"Evaluate function at a value, compositions and arithmetics step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/function-arithmetic-composition-calculator",
+                  "image_url":"http://www.interactive-maths.com/uploads/1/1/3/4/11345755/110604_orig.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Arithmetic",
+                        "payload":"function-arithmetic-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Compositions",
+                        "payload":"function-composition-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Conic Sections",
+                  "subtitle":"Calculate area, circumferences, diameters, and radius for circles and ellipses, parabolas and hyperbolas step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/conic-sections-calculator",
+                  "image_url":"http://www.interactive-maths.com/uploads/1/1/3/4/11345755/110604_orig.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Calculate Center",
+                        "payload":"circle-function-center-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Calculate Radius",
+                        "payload":"circle-function-radius-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Calculate diameter",
+                        "payload":"circle-function-diameter-calculator"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

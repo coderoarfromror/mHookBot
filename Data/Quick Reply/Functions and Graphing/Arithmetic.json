@@ -1,0 +1,21 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Arithmetic",
+        "payload":"function-arithmetic-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Compositions",
+        "payload":"function-composition-calculator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+[  
+   {  
+      "title":"were any if these your intention ? , Slide to see more",
+      "subtitle":"Speciy What you meant",
+      "image_url":"http://aljumuah.com/wp-content/uploads/2015/02/intention1.jpg",
+      "buttons":[  
+         {  
+            "type":"postback",
+            "title":"👏Greeting",
+            "payload":"intent Greeting "
+         },
+         {  
+            "type":"postback",
+            "title":"📙Asking for Courses",
+            "payload":"intent Tutorials "
+         },
+         {  
+            "type":"postback",
+            "title":"📖Asking for Examples",
+            "payload":"intent Examples "
+         }
+      ]
+   },
+   {  
+      "title":"Or These ?",
+      "subtitle":"Speciy What you meant",
+      "image_url":"http://aljumuah.com/wp-content/uploads/2015/02/intention1.jpg",
+      "buttons":[  
+         {  
+            "type":"postback",
+            "title":"😊 Thanking",
+            "payload":"intent Thanking "
+         },
+         {  
+            "type":"postback",
+            "title":"Ⓜ what am I",
+            "payload":"intent Identification "
+         },
+         {  
+            "type":"postback",
+            "title":"🔑 How to use Me",
+            "payload":"intent BotUsing "
+         }
+      ]
+   }
+]

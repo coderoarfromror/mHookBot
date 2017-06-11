@@ -1,0 +1,194 @@
+{  
+   "recipient":{  
+      "id":"Words"
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Pre-Algebra",
+                  "subtitle":"Find Factors and Multipliers, Decimals, Fractions and Percent series step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-algebra-calculator",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Factors & Primes",
+                        "payload":"More Pre Algebra/Factors and Primes Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Fractions",
+                        "payload":"More Pre Algebra/Fractions Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Algebra",
+                  "subtitle":"Calculate equations, inequatlities, line equation and system of equations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/algebra-calculator",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Equations",
+                        "payload":"More Algebra/Equations Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Inequalities",
+                        "payload":"More Algebra/Inequalities Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Matrices and Vectors",
+                  "subtitle":"Solve matrix and vector operations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/matrix-vector-calculator",
+                  "image_url":"http://i1.ytimg.com/vi/hFHYyy8K-DI/mqdefault.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Matrices",
+                        "payload":"More Main/Matrices Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Vectors",
+                        "payload":"More Main/Vectors Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Functions and Graphing",
+                  "subtitle":"Analyze and graph line equations and functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/functions-graphing-calculator",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Line Equations",
+                        "payload":"More Functions and Graphing/Line Equations Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Functions",
+                        "payload":"More Functions and Graphing/Functions Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Functions and Graphing"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Trigonometry",
+                  "subtitle":"Calculate trignometric equations, prove identities and evaluate functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/trigonometry-calculator",
+                  "image_url":"https://www.walldevil.com/wallpapers/w01/542395-blue-background-knowledge-mathematics-minimalistic-trigonometry.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Proving Identities",
+                        "payload":"trigonometric-identity-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Tri Equations",
+                        "payload":"trigonometric-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Trigonometry Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Pre Calculus",
+                  "subtitle":"Solve pre-calculus problems step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-calculator",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Equations",
+                        "payload":"More Pre Calculus/Equations Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Inequalities",
+                        "payload":"More Pre Calculus/Inequalities Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Calculus"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Calculus",
+                  "subtitle":"Calculate limits, integrals, derivatives and series step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/calculus-calculator",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Limits",
+                        "payload":"More Calculus/Limits Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Integrals",
+                        "payload":"More Calculus/Integrals Quick Reply"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Calculus"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Statistics",
+                  "subtitle":"Find the mean, median, standard deviation, variance and ranges of a data set step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/statistics-calculator",
+                  "image_url":"http://www.powerpointhintergrund.com/uploads/statistics-background-0.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Arithmetic Mean",
+                        "payload":"arithmetic-mean-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Geometric Mean",
+                        "payload":"geometric-mean-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Statistics Quick Reply"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

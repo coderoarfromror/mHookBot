@@ -1,0 +1,717 @@
+[  
+   {  
+      "Name":"Introduction to matrices",
+      "Link":"https://www.youtube.com/watch?v=xyAuNHPsq-g",
+      "unShortenedUrl":"https://r2---sn-p5qs7n76.googlevideo.com/videoplayback?initcwndbps=3885000&mm=31&gir=yes&mn=sn-p5qs7n76&id=o-APGt-Q7hepJCWTnmB4GGEhkL5IdFAAt74732XZ5tm1IP&mt=1492360403&mv=m&ms=au&source=youtube&ip=159.253.144.86&signature=B47012794356E055BDF46BAAE755CA626929DA02.21AA83D1209DD02CE9F5629EB0C73FBF5455E201&ei=Np3zWPK0Bs3G1wKT8bq4BA&pl=24&upn=hnJDyjJOpA4&ipbits=0&requiressl=yes&ratebypass=yes&itag=18&clen=11066408&lmt=1394309187639538&dur=710.646&expire=1492382102&mime=video/mp4&key=yt6&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Introduction+to+matrices"
+   },
+   {  
+      "Name":"Matrix multiplication (part 1)",
+      "Link":"https://www.youtube.com/watch?v=aKhhYguY0DQ",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7l.googlevideo.com/videoplayback?initcwndbps=3885000&mn=sn-p5qs7n7l&mm=31&ipbits=0&id=o-AOdkRkj2m4fQ29mg3zgkK-zLunIoBO2G0X7CGlSXQJ1E&dur=820.152&mv=m&mt=1492360403&ms=au&ip=159.253.144.86&clen=13387003&ratebypass=yes&signature=7C7E4F031D501D9EFB70292F46D35A53DE5A0D23.D9CC9BEC21DB778F0B442149EA935B6FE95DF060&itag=18&ei=N53zWIe2DdaO1gK6zIiYCw&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&source=youtube&requiressl=yes&gir=yes&pl=24&mime=video/mp4&lmt=1429856849212087&expire=1492382103&upn=_SFKhO6DCrU&title=Matrix+multiplication+(part+1)"
+   },
+   {  
+      "Name":"Matrix multiplication (part 2)",
+      "Link":"https://www.youtube.com/watch?v=OAh573i_qn8",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7d.googlevideo.com/videoplayback?upn=JmKCKdrAzEc&itag=18&signature=6862A70053671FC26B317CA33A33BD1D0A1DF412.5388C20882232CCCA7CB10699CA049CAC262F04B&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=3885000&requiressl=yes&mime=video/mp4&gir=yes&key=yt6&mn=sn-p5qs7n7d&clen=14053070&ip=159.253.144.86&lmt=1386710294927219&dur=876.669&ratebypass=yes&source=youtube&ipbits=0&pl=24&mv=m&ei=OZ3zWMPVAYP81gKirpnwBA&ms=au&mm=31&expire=1492382105&id=o-AGzL3116EMUKOEjS633pD4uncbclohsyqhdN-QkPtzj7&mt=1492360403&title=Matrix+multiplication+(part+2)"
+   },
+   {  
+      "Name":"Inverse Matrix (part 1)",
+      "Link":"https://www.youtube.com/watch?v=iUQR0enP7RQ",
+      "unShortenedUrl":"https://r3---sn-p5qs7n76.googlevideo.com/videoplayback?ratebypass=yes&itag=18&mime=video/mp4&initcwndbps=3885000&ipbits=0&mt=1492360403&gir=yes&key=yt6&upn=Jl8VZqnrBto&expire=1492382111&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=Pp3zWN3dNoH31gLiq7GwDA&ms=au&source=youtube&mv=m&dur=854.169&pl=24&ip=159.253.144.86&lmt=1457631807060517&id=o-ABOM9aQ1yeVZjkEeFwNJ-wK-_Gf10Oefu738ltVMB80s&mm=31&mn=sn-p5qs7n76&signature=4D3F712C0164230180AF7C8BCC81B49439178A5E.D713D40F1509D257D50121CDF1AB7341A53D1920&clen=13469052&requiressl=yes&title=Idea+behind+inverting+a+2x2+matrix+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"Inverting matrices (part 2)",
+      "Link":"https://www.youtube.com/watch?v=S4n-tQZnU6o",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7s.googlevideo.com/videoplayback?ms=au&mv=m&mt=1492360403&ip=159.253.144.86&key=yt6&upn=ZDb3H-XyRJI&gir=yes&id=o-AEH5Y8Q-nYR-A3UPRAiXMPignqn0svxt_VtSC2Ps1tJB&mn=sn-p5qs7n7s&mm=31&ei=P53zWMmgApS_1gKvo7nQAg&lmt=1386741303078282&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&source=youtube&itag=18&pl=24&dur=1004.146&mime=video/mp4&expire=1492382111&ratebypass=yes&signature=1C67D82C58FC60AEA0184986F3612853073E30B6.17DD8A4786DE3011B23919D724913C26B86FB579&initcwndbps=3885000&ipbits=0&clen=15615622&title=Classic+video+on+inverting+a+3x3+matrix+part+1+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"Inverting Matrices (part 3)",
+      "Link":"https://www.youtube.com/watch?v=obts_JDS6_Q",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?upn=cqJb_HDK6ug&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360403&mv=m&initcwndbps=3885000&itag=18&ms=au&mm=31&mn=sn-p5qs7n7z&ipbits=0&id=o-AOicyHaFacr5HSd4Og1C4v64JUlMu1LJjyHdj9KkkhmD&ip=159.253.144.86&requiressl=yes&gir=yes&signature=34EDC2227F49015D0AE79F6C7AA6D4552EE67741.B081DB7D8DE889CEE0068D1BDE49DEE68311CD78&key=yt6&source=youtube&ratebypass=yes&dur=815.159&lmt=1415720126796195&ei=QJ3zWJehFMjJ1wLb2YOIBQ&expire=1492382112&clen=12805016&mime=video/mp4&pl=24&title=Classic+video+on+inverting+a+3x3+matrix+part+2+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrices to solve a system of equations",
+      "Link":"https://www.youtube.com/watch?v=AUqeb9Z3y3k",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7l.googlevideo.com/videoplayback?pl=24&ip=159.253.144.86&ei=QZ3zWNrYHYup1gKp5Y_QCA&ipbits=0&upn=kU3VroKGw-w&gir=yes&mm=31&mn=sn-p5qs7n7l&id=o-AFQLo7opeP8HvaeZVHPqTJ6gi2i-2yjnKlfvhek3HV22&initcwndbps=3885000&source=youtube&signature=9D8FF1D312DEE4C0C417F5AEE742A79BFE845E82.486F27312FF680F7731350B14B52DA8F1C3214D4&mt=1492360403&clen=16392339&mv=m&ms=au&lmt=1445057055353080&dur=992.119&mime=video/mp4&key=yt6&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382113&requiressl=yes&itag=18&ratebypass=yes&title=Matrices+to+solve+a+system+of+equations+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrices to solve a vector combination problem",
+      "Link":"https://www.youtube.com/watch?v=gsNgdVdAT1o",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7e.googlevideo.com/videoplayback?clen=14109250&dur=859.649&source=youtube&initcwndbps=3885000&upn=IfN0ywVhuw4&ipbits=0&lmt=1405276631171966&ratebypass=yes&id=o-AEJKqsEmdvAhtCp_4jPtFAmw-hSGg79XFIOHk0Bbs8oU&mime=video/mp4&pl=24&mt=1492360403&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&ms=au&ip=159.253.144.86&mm=31&mn=sn-p5qs7n7e&gir=yes&expire=1492382115&key=yt6&signature=75C5D9AC95A6258BD50073970EBC4B43CAEDBE08.5A5D74EEEB5DA912157C5895097E66EED22F89F6&requiressl=yes&itag=18&ei=Q53zWJXiGISY1gKk-5LADw&title=Matrices+to+solve+a+vector+combination+problem+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"Singular Matrices",
+      "Link":"https://www.youtube.com/watch?v=UqyN7-tRS00",
+      "unShortenedUrl":"https://r6---sn-p5qs7nee.googlevideo.com/videoplayback?dur=866.754&ei=RZ3zWOx4xIDWAojimMgJ&requiressl=yes&pl=24&gir=yes&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=422D6A65D0E6294F521988E14E50E5D1E0AB06B8.8F7E2C9A2B54DDDFD0D9B48409C5868FB20BB9B6&id=o-AOJWcyl4449ja8M-vxS28QW8_Pcb30ZAlU8ZyvvXEw8K&ms=au&mt=1492360403&initcwndbps=3885000&mv=m&mm=31&mn=sn-p5qs7nee&key=yt6&ip=159.253.144.86&clen=14825507&source=youtube&ratebypass=yes&itag=18&lmt=1387368829414501&upn=xLvriLuPYIM&expire=1492382117&ipbits=0&mime=video/mp4&title=Singular+matrices+|+Matrices+|+Precalculus+|+Khan+Academy"
+   },
+   {  
+      "Name":"3-variable linear equations (part 1)",
+      "Link":"https://www.youtube.com/watch?v=5tB7y_piK6o",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?ei=R53zWODgAYj51gKx7JWACg&mm=31&itag=18&signature=82EDB2D24E10ED6FF267C2CD9EF966AFBE3FF7D2.B72D1D2E22F40355E34521B7D74223B26D57A465&requiressl=yes&expire=1492382119&source=youtube&initcwndbps=3885000&dur=481.163&clen=7397104&ratebypass=yes&upn=YVU1V2uMVyE&ipbits=0&lmt=1390933549861876&gir=yes&key=yt6&ip=159.253.144.86&mn=sn-p5qs7n76&ms=au&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360403&mv=m&mime=video/mp4&id=o-ABbvup_jijSHrXcPp7ExA8NwYFieoYQqnI5_Pk9-QWLt&pl=24&title=3-variable+linear+equations+(part+1)"
+   },
+   {  
+      "Name":"Solving 3 Equations with 3 Unknowns",
+      "Link":"https://www.youtube.com/watch?v=woqq3Sls1d8",
+      "unShortenedUrl":"https://r3---sn-p5qs7nee.googlevideo.com/videoplayback?mime=video/mp4&dur=925.617&upn=YZleG9neRGE&itag=18&ipbits=0&requiressl=yes&signature=08639C1D266885E58FAA73A7910F1EA0C08CFCC3.CF53FF3D293702CCB90D4FAAD704E3F4487C6148&initcwndbps=3885000&key=yt6&sparams=clen,dur,ei,gir,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&lmt=1406464133964337&expire=1492382121&clen=14800594&gir=yes&ip=159.253.144.86&ratebypass=yes&mn=sn-p5qs7nee&source=youtube&mm=31&mv=m&pl=24&mt=1492360403&ms=au&id=o-AJ-gDQPamqtScRSc-E9nHtx7ZOcc613H0ieDA3d7dAy-&ei=SZ3zWKjhD4Ga1gLT2qvoDQ&title=Solving+3+Equations+with+3+Unknowns"
+   },
+   {  
+      "Name":"Linear Algebra: Vector Examples",
+      "Link":"https://www.youtube.com/watch?v=r4bH66vYjss",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7d.googlevideo.com/videoplayback?ei=S53zWJ7rA83K1gLyu6-wCg&key=yt6&initcwndbps=3885000&expire=1492382123&mt=1492360403&pl=24&itag=22&ms=au&requiressl=yes&mime=video/mp4&id=o-AMQAyV2fvjgste2SSRW2F0AKm5kRAq-Ncs8vxW6UyZJJ&dur=1533.051&mm=31&ip=159.253.144.86&mn=sn-p5qs7n7d&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&lmt=1472189136496268&ipbits=0&mv=m&ratebypass=yes&upn=pVWF-hYUpuQ&source=youtube&signature=CDE7DDE2393B107761916D27E15ED83F15449FC0.088859036187F1B33DDB2A47670EBE2068A54647&title=Vector+examples+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Parametric Representations of Lines",
+      "Link":"https://www.youtube.com/watch?v=hWhs2cIj7Cw",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?expire=1492382125&ratebypass=yes&dur=1486.030&ipbits=0&key=yt6&mime=video/mp4&signature=CED59B400FF0A7ECC0CCCB66C7FD7BBA21255A1D.835132AE0C751C870B93FF76D1EB8ED8B92C7F78&itag=22&upn=JCvlShF6upw&source=youtube&initcwndbps=3665000&lmt=1473148961053437&ei=TZ3zWPSWAtuW1gK755noCA&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360461&ms=au&requiressl=yes&ip=159.253.144.86&mn=sn-p5qs7n7z&mm=31&pl=24&id=o-AD8R76nL1PhPy3cmMT8w7mnwGfSr_r2rFFQ0qgVmay6x&title=Parametric+representations+of+lines+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Combinations and Span",
+      "Link":"https://www.youtube.com/watch?v=Qm_OS-8COwU",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7d.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&upn=kAv89ds2nO4&signature=73A19C9DEE3F3825864EE6CA65B218AB7D883A1C.1723AC1715FC10F0FA4E0E95039E578482BFF3D7&ratebypass=yes&lmt=1471063662430564&key=yt6&itag=22&ipbits=0&mn=sn-p5qs7n7d&mm=31&pl=24&id=o-AAirb6KEex0PUfkvb5Hj1cmjHPxN3e--TLj0-VfEfCXK&mime=video/mp4&mv=m&mt=1492360461&ms=au&requiressl=yes&ip=159.253.144.86&initcwndbps=3665000&ei=T53zWIjJDsO11gKomJbQAg&dur=1234.117&expire=1492382127&title=Linear+combinations+and+span+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Introduction to Linear Independence",
+      "Link":"https://www.youtube.com/watch?v=CrV1xCWdY-g",
+      "unShortenedUrl":"https://r5---sn-p5qs7nee.googlevideo.com/videoplayback?upn=BiykrTRBjac&source=youtube&pl=24&itag=22&ei=UZ3zWOHKAsSE1gLu6rngDg&ip=159.253.144.86&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360461&ms=au&mn=sn-p5qs7nee&mm=31&id=o-AGGTCDjTW9M-UWrAwZ5nYwkErpWjOcbk6tomzJI8R3jo&requiressl=yes&initcwndbps=3665000&key=yt6&mime=video/mp4&ratebypass=yes&signature=03C809220E615D786F5559566CF5DBEC8916B8ED.5F24244656F8CD952A5F3325EAF7EA9C9DF97135&lmt=1471573854286937&dur=945.539&ipbits=0&expire=1492382129&title=Introduction+to+linear+independence+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"More on linear independence",
+      "Link":"https://www.youtube.com/watch?v=Alhcv5d_XOs",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?ei=Up3zWMK6OdaG1gLd1rHQBQ&dur=1057.924&ipbits=0&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&id=o-AG9FVWAFzbPhUk6riAJh-_zXC8rKgqjh76eF9eMvR4ZP&ms=au&mt=1492360461&mv=m&pl=24&signature=4379C73916E0683CE286DF7F1CECB196159E5225.9485C8440D1BCFE6B2476F09EDE625737A151299&ip=159.253.144.86&key=yt6&mm=31&mn=sn-p5qs7n7d&ratebypass=yes&source=youtube&upn=8roptNF4Bhc&lmt=1386883771937009&expire=1492382131&initcwndbps=3665000&mime=video/mp4&itag=22&title=More+on+linear+independence+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Span and Linear Independence Example",
+      "Link":"https://www.youtube.com/watch?v=9kW6zFK5E5c",
+      "unShortenedUrl":"https://r5---sn-p5qs7nee.googlevideo.com/videoplayback?ip=159.253.144.86&key=yt6&mn=sn-p5qs7nee&mm=31&ms=au&ipbits=0&mv=m&pl=24&mt=1492360461&signature=025B23DDE8AF8A54FAC186793B29922864E11EAD.403E3DD44BBE091128247766C9B5052D476DA3B9&upn=pUlPtRGXRT8&lmt=1471958339809295&ratebypass=yes&source=youtube&mime=video/mp4&itag=22&expire=1492382133&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&id=o-ADMt0YKn3XFgYBjD0D5KeYV9ldbOjoc4yWy8vszE5MXS&ei=VZ3zWPyZA4mW1gKK142gDw&dur=1012.529&initcwndbps=3665000&title=Span+and+linear+independence+example+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Subspaces",
+      "Link":"https://www.youtube.com/watch?v=pMFv6liWK4M",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7l.googlevideo.com/videoplayback?mime=video/mp4&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=3665000&ipbits=0&lmt=1471877696846608&source=youtube&dur=1408.801&requiressl=yes&key=yt6&signature=2ADC8565CC9E4C5439882F964AC24EE17A0E5F9D.AC9CC25FA09B4B65CDC52B93F491E36ADDBE1A50&itag=22&upn=33e0LTYOwTg&expire=1492382136&ratebypass=yes&ei=WJ3zWKfICNLN1gLMtZDACg&ms=au&mt=1492360461&mv=m&pl=24&ip=159.253.144.86&id=o-ANsgooHuJqZ0KfyNYEIVeSRhuGOCyzB1qsFC47tDIiam&mm=31&mn=sn-p5qs7n7l&title=Linear+subspaces+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Basis of a Subspace",
+      "Link":"https://www.youtube.com/watch?v=zntNi3-ybfQ",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7e.googlevideo.com/videoplayback?expire=1492382138&requiressl=yes&pl=24&ip=159.253.144.86&ei=Wp3zWImnD9Dn1gKypJDQCA&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AIkUUVicXfu5GBJ75vWkF9QWAi3BpPddtDpgtBxounlo&initcwndbps=3665000&mn=sn-p5qs7n7e&source=youtube&mm=31&ratebypass=yes&dur=1139.983&ms=au&upn=pjjQrQqqy1c&mv=m&mt=1492360461&itag=22&key=yt6&mime=video/mp4&ipbits=0&signature=6CB44B652DB5E77FD56D8ED1F4C01AE77F612A27.3385FECB9629D9D5106156F8E40514D86A96B91B&lmt=1472278538177008&title=Basis+of+a+subspace+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Vector Dot Product and Vector Length",
+      "Link":"https://www.youtube.com/watch?v=WNuIhXo39_k",
+      "unShortenedUrl":"https://r1---sn-p5qs7nee.googlevideo.com/videoplayback?itag=22&mm=31&mn=sn-p5qs7nee&ei=W53zWNrYItbO1gKwx5moDQ&ms=au&mt=1492360461&pl=24&mv=m&upn=1DQVKm1UB8g&source=youtube&signature=2BB706F150B68BC60B840F34982DF4F3D01E6EE2.0717F6617E17A2B81F6E141BF9081259192124EB&requiressl=yes&mime=video/mp4&initcwndbps=3665000&ipbits=0&dur=549.802&expire=1492382139&lmt=1471825817675114&key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&ratebypass=yes&id=o-ADQS1NVt2xhK24AmIKYSjaDITfUaY7czAiwlx0PxIXDH&title=Vector+dot+product+and+vector+length+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Proving Vector Dot Product Properties",
+      "Link":"https://www.youtube.com/watch?v=rVQ3G9epCjw",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7z.googlevideo.com/videoplayback?itag=22&ei=XZ3zWMz6AcuW1gKjhpGYBQ&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mm=31&signature=C98D52170F083735EE5EBA972B998A7EFA2689BC.0481F6F66A294CEAA22E3900621ED4F692E2E8A8&id=o-ACVduwFvlXIR_xAtCHk6jb43aREBDyDzigSYE0lOoFNY&dur=645.027&mt=1492360461&mv=m&ms=au&ip=159.253.144.86&ratebypass=yes&lmt=1472425072577876&expire=1492382141&source=youtube&upn=KV0CbLpqbIM&key=yt6&ipbits=0&initcwndbps=3665000&pl=24&mime=video/mp4&mn=sn-p5qs7n7z&title=Proving+vector+dot+product+properties+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Proof of the Cauchy-Schwarz Inequality",
+      "Link":"https://www.youtube.com/watch?v=r2PogGDl8_U",
+      "unShortenedUrl":"https://r2---sn-p5qs7n76.googlevideo.com/videoplayback?upn=A5z4RErDOxA&ip=159.253.144.86&ratebypass=yes&expire=1492382143&lmt=1472347927965769&ms=au&mv=m&mt=1492360461&source=youtube&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AMA5DzIs-_Bl_LrttD2QOO0KLSl_v5ctCSiXPsU-apd_&signature=C3A91FD780D0B8996FD29A9FB1005D310D7E280A.932AAA414F1E3DF39E3AE18AA5726D0017285989&mime=video/mp4&requiressl=yes&ei=X53zWKSjDMGG1wKS85PgBg&itag=22&dur=1015.037&pl=24&ipbits=0&initcwndbps=3665000&mn=sn-p5qs7n76&mm=31&key=yt6&title=Proof+of+the+Cauchy-Schwarz+inequality+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Vector Triangle Inequality",
+      "Link":"https://www.youtube.com/watch?v=PsNidCBr5II",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7l.googlevideo.com/videoplayback?signature=A3801A4033AFC8B59DC468174DF351CF0F03509E.E2E55DD7ADDF1F14F15835E3837960A453AE9FC5&ip=159.253.144.86&requiressl=yes&id=o-AAgWwvqaBZRJFPafrhSD8w1cqeY49PJCjKeB5c4DWLWp&initcwndbps=3665000&lmt=1471751802573830&source=youtube&ratebypass=yes&dur=1132.251&key=yt6&ipbits=0&mime=video/mp4&pl=24&expire=1492382145&mm=31&mn=sn-p5qs7n7l&ei=YJ3zWM2APNGC1gLZ1IHYCQ&itag=22&ms=au&mt=1492360461&mv=m&upn=nMvPNyu4gCE&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Vector+triangle+inequality+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Defining the angle between vectors",
+      "Link":"https://www.youtube.com/watch?v=5AWob_z74Ks",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?id=o-AGAELtkAYOy6SpOg-XsVg_uVstCULo6y_Vo7mngiUdPr&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=Yp3zWIu_OcjJ1wLLnru4BA&ip=159.253.144.86&ratebypass=yes&source=youtube&dur=1510.527&initcwndbps=3665000&pl=24&requiressl=yes&expire=1492382147&mime=video/mp4&key=yt6&itag=22&ipbits=0&lmt=1470908442581427&mt=1492360461&mv=m&ms=au&signature=670E118D531A9F35A9B1BF4260B5E95C1008FAD9.DB78A816E1A03683255B54E4E9D91694B1581B64&upn=9DgvZYllm3Y&mm=31&mn=sn-p5qs7n7s&title=Defining+the+angle+between+vectors+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Defining a plane in R3 with a point and normal vector",
+      "Link":"https://www.youtube.com/watch?v=UJxgcVaNTqY",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7e.googlevideo.com/videoplayback?mime=video/mp4&initcwndbps=3665000&ipbits=0&ratebypass=yes&itag=22&upn=vO8mDpc3abY&expire=1492382149&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&id=o-AO0GSDoGIF5Si4nVdAfw0JTcECq9JzKAgeVz2s9nfvaQ&mm=31&mn=sn-p5qs7n7e&ei=ZJ3zWN3pN5mr1gLksb6oCQ&ms=au&source=youtube&mv=m&dur=832.667&pl=24&ip=159.253.144.86&lmt=1471732054824336&requiressl=yes&mt=1492360461&signature=168E7CD60D2B3BC3498B7B0D66DB755FD41518BC.9B70E57A00040913F70A5C73BD76EFAD4C1E97E9&title=Defining+a+plane+in+R3+with+a+point+and+normal+vector+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Cross Product Introduction",
+      "Link":"https://www.youtube.com/watch?v=pJzmiywagfY",
+      "unShortenedUrl":"https://r3---sn-p5qs7nee.googlevideo.com/videoplayback?ratebypass=yes&expire=1492382151&ipbits=0&dur=946.863&ms=au&mt=1492360518&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&ip=159.253.144.86&requiressl=yes&initcwndbps=3665000&itag=22&id=o-AJa9MmfA9Xu8uAItmxk1mRcXqxKEtIC3H6oZAiD1Bv5z&pl=24&mm=31&mn=sn-p5qs7nee&upn=VmZJII0PJpo&source=youtube&lmt=1471238252078474&ei=Zp3zWPPWOoP81gK6lxQ&mime=video/mp4&key=yt6&signature=D29B603B68E3532C7D8794AFFBA494574BC0D57D.398A98E2B4498EB21FF1FF317BAE05445529B383&title=Cross+product+introduction+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Proof: Relationship between cross product and sin of angle",
+      "Link":"https://www.youtube.com/watch?v=7MKA2QlKvHc",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=AF13C04A482AF8EBC4B781FF81C12807EAA19233.E43BA22079BA93DE266E238D1E65F3E87BE84E36&upn=YHAjENqPoPc&itag=22&mime=video/mp4&key=yt6&expire=1492382153&ip=159.253.144.86&requiressl=yes&initcwndbps=3665000&dur=1088.133&lmt=1472335542736418&ratebypass=yes&id=o-AIIPpFFFDCAaiILTgDlOM_uPWJWEuLcRaKIZg32saL5i&mm=31&mn=sn-p5qs7n7d&mt=1492360461&source=youtube&ei=aJ3zWMKTOomL1gKOl4LACA&ms=au&ipbits=0&mv=m&pl=24&title=Proof:+Relationship+between+cross+product+and+sin+of+angle+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Dot and Cross Product Comparison/Intuition",
+      "Link":"https://www.youtube.com/watch?v=tdwFdzVqito",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7d.googlevideo.com/videoplayback?ratebypass=yes&ipbits=0&initcwndbps=3665000&mime=video/mp4&expire=1492382156&upn=k1rWLvgjeKw&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AG-_vDsFzz4RviQkd0rg_HiuSGgeGKwz3Z5d5sFBz488&dur=1153.381&source=youtube&ip=159.253.144.86&requiressl=yes&lmt=1471734006444746&itag=22&ms=au&ei=bJ3zWMe6C8jK1wLLvJ-gAg&pl=24&mv=m&mt=1492360461&signature=33C7031B05567DA00647F8F718D771F7BFF01483.3B8EE7F4ED0A186005DFE815310178BC42BC9375&key=yt6&mn=sn-p5qs7n7d&mm=31&title=Dot+and+cross+product+comparison/intuition+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrices: Reduced Row Echelon Form 1",
+      "Link":"https://www.youtube.com/watch?v=L0CmbneYETs",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?dur=1062.545&lmt=1471887624526065&key=yt6&initcwndbps=3665000&ipbits=0&ratebypass=yes&id=o-AIgzYEMXzhJGUgMMxgwec0BoziXSH8BUp7tj4ahqJ-Fq&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mn=sn-p5qs7n7z&ip=159.253.144.86&ei=bJ3zWL_-N8LS1gKO-6nwBA&ms=au&mt=1492360461&pl=24&itag=22&upn=feJGauIKZA0&mm=31&expire=1492382157&requiressl=yes&mime=video/mp4&source=youtube&signature=32A39B005B3F1A72D7545C2C1F9FBDBF3B19DBDD.0E6909F43923D4668CEDAA750127DC343D118A2D&title=Matrices:+Reduced+row+echelon+form+1+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrices: Reduced Row Echelon Form 2",
+      "Link":"https://www.youtube.com/watch?v=lP1DGtZ8Wys",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?id=o-AHekHZPnuiAHx5pBp1vKlNtXi-r0spnroZpaRph6OEE8&mn=sn-p5qs7n7d&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&upn=EEHejaYuQkk&key=yt6&ip=159.253.144.86&ms=au&mv=m&mt=1492360461&mm=31&lmt=1472793679335062&ei=cJ3zWLzaFJfh1gL0iJzwDQ&source=youtube&expire=1492382160&mime=video/mp4&pl=24&itag=22&dur=456.852&requiressl=yes&ipbits=0&initcwndbps=3665000&signature=643BD0E33B966FD7FD70651E1AB2372E2CD6C4A3.DE2E5C684D78A6882B22640236A9B9F3E9E8F575&ratebypass=yes&title=Matrices:+Reduced+row+echelon+form+2+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrices: Reduced Row Echelon Form 3",
+      "Link":"https://www.youtube.com/watch?v=JVDrlTdzxiI",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7l.googlevideo.com/videoplayback?requiressl=yes&initcwndbps=3665000&mt=1492360461&mime=video/mp4&key=yt6&ratebypass=yes&dur=727.783&lmt=1472304105098910&ei=cZ3zWIy9IsTH1gLB05XYCQ&ms=au&ipbits=0&mv=m&pl=24&source=youtube&ip=159.253.144.86&mn=sn-p5qs7n7l&id=o-AGESaU9JmJjPkxu3BiLxA40EllHHADJzufW-ho8XKZFu&mm=31&expire=1492382161&itag=22&upn=PtQegxdYiXU&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=864C4D417D66290EF08BB001DC15EC6440311610.B7B3F343B5A28130583BCB7FE92E52FFCBC52148&title=Matrices:+Reduced+row+echelon+form+3+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrix Vector Products",
+      "Link":"https://www.youtube.com/watch?v=7Mo4S2wyMg4",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7e.googlevideo.com/videoplayback?itag=22&key=yt6&lmt=1471444417061805&ratebypass=yes&signature=9C70048443C9662CBA3421F28AE937D310DA6886.96B71424C3470861B079B5398044DD0BFCBAF3D3&upn=xSj5JgCcSaU&ip=159.253.144.86&requiressl=yes&ms=au&mt=1492360461&mv=m&id=o-AP_LBcbVqoo7wqfIj0BEH7BilEdYXJcuTHmqUp661YG4&mime=video/mp4&pl=24&mm=31&mn=sn-p5qs7n7e&ipbits=0&expire=1492382163&dur=1269.388&ei=c53zWNH-AZGu1gL3tZewBA&initcwndbps=3665000&source=youtube&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Matrix+vector+products+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Introduction to the Null Space of a Matrix",
+      "Link":"https://www.youtube.com/watch?v=jCwRV1QL_Xs",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?id=o-AKQRaSpPbuQClmdHAXlcX7ud1_hXP-S49R0KrQ9WPwDD&ip=159.253.144.86&ei=dZ3zWP72A5Cz1gLmtp_QDA&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ms=au&signature=25D3A2B6A3B3127C51AA2366079E634D608703C3.5FE86262974FC285718DAC51F59645B3AB01E94D&mt=1492360461&mv=m&mm=31&mn=sn-p5qs7n7s&upn=xLhQIErOhS8&mime=video/mp4&key=yt6&expire=1492382165&lmt=1470938315974011&ipbits=0&itag=22&initcwndbps=3665000&pl=24&dur=622.921&ratebypass=yes&source=youtube&requiressl=yes&title=Introduction+to+the+null+space+of+a+matrix+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Null Space 2: Calculating the null space of a matrix",
+      "Link":"https://www.youtube.com/watch?v=qvyboGryeA8",
+      "unShortenedUrl":"https://r2---sn-p5qs7nee.googlevideo.com/videoplayback?itag=22&key=yt6&upn=Df1SEy51vDs&ipbits=0&ratebypass=yes&initcwndbps=3665000&signature=52BA195D4DC5E44F3E1FB431820BE28AA40CB391.91306C5EE7AD4D81D71A9FEBAF03B2B82A794236&dur=787.040&ei=dp3zWLSnOpbB1gL2o6S4DA&lmt=1473169034790900&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360461&ms=au&id=o-AJIzKoPAjLUsahOcNPeVkl3SzqPCqETjw5CGxsYByE68&expire=1492382167&ip=159.253.144.86&mime=video/mp4&requiressl=yes&mn=sn-p5qs7nee&pl=24&source=youtube&mm=31&title=Null+space+2:+Calculating+the+null+space+of+a+matrix+|++Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Null Space 3: Relation to Linear Independence",
+      "Link":"https://www.youtube.com/watch?v=vFctYRhK2M0",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7e.googlevideo.com/videoplayback?ei=eZ3zWLVbwfnWAue_r6gH&requiressl=yes&itag=22&ip=159.253.144.86&initcwndbps=3665000&ipbits=0&pl=24&key=yt6&upn=uDlRoA4eYP0&ratebypass=yes&lmt=1472347962523206&dur=694.787&expire=1492382169&ms=au&mt=1492360461&mv=m&mime=video/mp4&source=youtube&id=o-AKeOounuF_SH2gntCGHU5ASfJI8qU5Fi0db2xhtD5PX1&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mn=sn-p5qs7n7e&mm=31&signature=2631B0006BBA95635ABD309505586A4811BE2703.D4FC132101B3F0EF40FFB9FEBFECEB1ECD978C4B&title=Null+space+3:+Relation+to+linear+independence+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Column Space of a Matrix",
+      "Link":"https://www.youtube.com/watch?v=st6D5OdFV9M",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7e.googlevideo.com/videoplayback?dur=639.198&ipbits=0&expire=1492382171&ratebypass=yes&initcwndbps=3665000&key=yt6&mime=video/mp4&ei=ep3zWMi-OsiG1wKs4YzoDA&signature=E0F9B073DE435028276D4F83B7A196C03E009DC4.329F5FF7941BEC851B05A130214623584086370F&lmt=1471024479274225&source=youtube&upn=zdEonJ29h-k&itag=22&requiressl=yes&ip=159.253.144.86&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360461&ms=au&mn=sn-p5qs7n7e&mm=31&pl=24&id=o-AHsVFWgQaLQlc_7Z1ER9KJDxelXvqcAPTp7p-agCbFka&title=Column+space+of+a+matrix+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Null Space and Column Space Basis",
+      "Link":"https://www.youtube.com/watch?v=_uTAdf_AsfQ",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7l.googlevideo.com/videoplayback?ei=fJ3zWIG6O56A1gLjh5uADQ&signature=A9E7E038AD5660AD4EFAD28704B1D7D01B5F897E.515DD2D292FE3756FA52F138621A46E0E52870DD&requiressl=yes&itag=22&expire=1492382173&mt=1492360461&source=youtube&initcwndbps=3665000&dur=1512.385&upn=f2af511yydk&lmt=1472214843727288&ratebypass=yes&ipbits=0&mm=31&ip=159.253.144.86&mn=sn-p5qs7n7l&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&mv=m&ms=au&mime=video/mp4&id=o-ABcAP2mwFdmj-TaIvgwlMaJNL_8ss3gQovbKULOmGetx&pl=24&title=Null+space+and+column+space+basis+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Visualizing a Column Space as a Plane in R3",
+      "Link":"https://www.youtube.com/watch?v=EGNlXtjYABw",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7l.googlevideo.com/videoplayback?signature=BCA9B44F5948387BF650B4070864C25466D1ED4B.12BE83BA338C02FA11D797AF37A2A02319B1D7F6&source=youtube&upn=fqlfFYyMODU&ei=fp3zWMjwO8mK1gLumJKwBA&key=yt6&pl=24&mn=sn-p5qs7n7l&mm=31&ip=159.253.144.86&ms=au&itag=22&initcwndbps=3665000&dur=1270.595&mv=m&mt=1492360461&id=o-AD72KdXQhfaM7-olcxCVROpzj0XipbqLF4_lT0ybuxNR&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&requiressl=yes&lmt=1470943975477429&ratebypass=yes&expire=1492382175&ipbits=0&title=Visualizing+a+column+space+as+a+plane+in+R3+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Proof: Any subspace basis has same number of elements",
+      "Link":"https://www.youtube.com/watch?v=Zn2K8UIT8r4",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7e.googlevideo.com/videoplayback?lmt=1470972570110648&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=gJ3zWJGhO9Od1gLJ-4qwDw&ip=159.253.144.86&mime=video/mp4&requiressl=yes&mn=sn-p5qs7n7e&pl=24&source=youtube&mm=31&mv=m&mt=1492360461&ms=au&id=o-AFbLAcUVBQJCL4luKbR6NHRLZdEtdjvLgRCU1F3va6sb&expire=1492382177&key=yt6&upn=2_qyaQJAvOU&ipbits=0&ratebypass=yes&itag=22&initcwndbps=3665000&signature=1213B79833794A096F5E6E43CEDDB13CF7A708CE.B594F75D2BEBDE0BB0324AD34AF0EC05F471FC33&dur=1294.535&title=Proof:+Any+subspace+basis+has+same+number+of+elements+|++Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Dimension of the Null Space or Nullity",
+      "Link":"https://www.youtube.com/watch?v=abYAUqs_n6I",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7z.googlevideo.com/videoplayback?initcwndbps=3665000&mm=31&ipbits=0&mn=sn-p5qs7n7z&id=o-AIA5Zn2URNnN5Md4AFmDvUP5c_F0gpuYmNvGEFIMB3Ad&mt=1492360518&dur=838.658&mv=m&ms=au&ip=159.253.144.86&lmt=1471728427876162&upn=B4pDdzsYggo&expire=1492382179&key=yt6&source=youtube&mime=video/mp4&pl=24&ratebypass=yes&requiressl=yes&signature=C40D6A827FA4C91446A12B99A6EA65BB0B1BB4B0.5BA99230D8A181587F61C28268C0010A4B1DCB37&ei=gp3zWKmJO5Gw1gKHpqmIDg&itag=22&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Dimension+of+the+null+space+or+nullity+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Dimension of the Column Space or Rank",
+      "Link":"https://www.youtube.com/watch?v=JUgrBkPteTg",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7e.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=9075AC20BDDEECB7269F83E53D714F163F24CACC.06BF7C4AF431D1AB041691B40884FCEFC3B7DE53&upn=ONAyelqH6Yk&itag=22&id=o-AOHB3Mf5XRqkshARHbY8rn9xeLsSX3EMK2W_VHU3I20v&mn=sn-p5qs7n7e&mm=31&ip=159.253.144.86&ms=au&ei=hJ3zWM-qOszK1wKTrJzAAg&pl=24&mv=m&ipbits=0&dur=768.000&lmt=1471953815420639&source=youtube&ratebypass=yes&expire=1492382181&key=yt6&mime=video/mp4&requiressl=yes&mt=1492360518&initcwndbps=3665000&title=Dimension+of+the+column+space+or+rank+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Showing relation between basis cols and pivot cols",
+      "Link":"https://www.youtube.com/watch?v=BfVjTOjvI30",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=iJ3zWIClF4eA1gKX3a-gAQ&itag=22&signature=6FAA8B9B8D16CDDF06D52C2D5B20CD82B16A5C33.24334C9C43D7EE5BFE8E1868A2D4A3DE416D0ADE&ratebypass=yes&ip=159.253.144.86&ms=au&expire=1492382184&mt=1492360518&dur=512.185&mv=m&id=o-AL7gmuy8UV-vJht9VVrpaLW9pYbBYjKSbTyQVzcTJ4qe&mm=31&ipbits=0&mn=sn-p5qs7n76&initcwndbps=3665000&upn=xJNiOkl6-2I&requiressl=yes&lmt=1471881733368791&mime=video/mp4&pl=24&source=youtube&key=yt6&title=Showing+relation+between+basis+cols+and+pivot+cols+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Showing that the candidate basis does span C(A)",
+      "Link":"https://www.youtube.com/watch?v=CkQOCnLWPUA",
+      "unShortenedUrl":"https://r3---sn-p5qs7nee.googlevideo.com/videoplayback?signature=71AF9197B7EEDFADB2830BE4722ECDE0AA453653.CE9EA9BDBEC6E72D4789297E572F093DCA54DE50&initcwndbps=3665000&key=yt6&mime=video/mp4&ei=iZ3zWKfZMdWF1gKU2Lt4&expire=1492382185&upn=9Q6Eu79P_1w&id=o-AFdpPvBRcV8okbOcUnzdaCQ5Ce7mxH9DTqWtepKwA4mh&pl=24&ms=au&mv=m&mt=1492360518&itag=22&ip=159.253.144.86&mm=31&mn=sn-p5qs7nee&ipbits=0&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&dur=819.525&lmt=1472218396870239&ratebypass=yes&title=Showing+that+the+candidate+basis+does+span+C(A)+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"A more formal understanding of functions",
+      "Link":"https://www.youtube.com/watch?v=BQMyeQOLvpg",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7z.googlevideo.com/videoplayback?expire=1492382187&requiressl=yes&pl=24&ip=159.253.144.86&ei=i53zWLXGAdOS1gL71IjwCQ&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AO4ydLc3XJrVEqzo7FFGC8nflJ2jmMNfYki335PIH6Z7&initcwndbps=3665000&mn=sn-p5qs7n7z&source=youtube&mm=31&ratebypass=yes&dur=961.027&ms=au&upn=iSCFaBMCx7E&mv=m&mt=1492360518&itag=22&key=yt6&mime=video/mp4&ipbits=0&signature=63835A40271979D31597C650A4F0FAC895EC7B0F.34501E896259B94BDCA4E9E93BF372B178866135&lmt=1472081375986835&title=A+more+formal+understanding+of+functions+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Vector Transformations",
+      "Link":"https://www.youtube.com/watch?v=gAbadNuQEjI",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7s.googlevideo.com/videoplayback?key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382189&upn=924XSd7AoTk&itag=22&ratebypass=yes&ipbits=0&initcwndbps=3665000&mime=video/mp4&signature=CC078D49B0FA84F89A45565FE27A34A0EBE7AF39.90D2FC52D2D3A0CDE32F9C5F66368CAE421828F0&mt=1492360518&requiressl=yes&ip=159.253.144.86&lmt=1473232916314606&dur=858.859&pl=24&source=youtube&mv=m&ei=jJ3zWMa6OsH61gL8s5aYBg&ms=au&mm=31&mn=sn-p5qs7n7s&id=o-AJhE8dkHER_B5GZoH2WBuLeOra0AAk-Tkatd_HaCtRr0&title=Vector+transformations+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Transformations",
+      "Link":"https://www.youtube.com/watch?v=4PCktDZJH8E",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7l.googlevideo.com/videoplayback?pl=24&ei=jp3zWJOdOIXW1gLBhZ64CA&itag=22&upn=X5nmVhWDv34&source=youtube&id=o-AJpMd4ug__HKnQTH54eNx0US7fO7W2yzBYB1XLsv-AKP&mm=31&mn=sn-p5qs7n7l&ip=159.253.144.86&ms=au&mt=1492360518&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&signature=257E255884D94AF5A95184E79E5BCB307E4B2FE3.465691ECD882D3265AE3B4B21236983BE4993C46&ratebypass=yes&initcwndbps=3665000&requiressl=yes&mime=video/mp4&key=yt6&ipbits=0&dur=832.040&expire=1492382191&lmt=1473086756216653&title=Linear+transformations+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrix Vector Products as Linear Transformations",
+      "Link":"https://www.youtube.com/watch?v=ondmopWLiEg",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7l.googlevideo.com/videoplayback?ipbits=0&ratebypass=yes&upn=bpTTtdZHnFQ&key=yt6&itag=22&mn=sn-p5qs7n7l&pl=24&source=youtube&mm=31&requiressl=yes&ip=159.253.144.86&mime=video/mp4&expire=1492382193&ms=au&id=o-AFA4iKmHnkT9cTOiNUzYy7PHHOcR4Q00Bx4ifhrFZs4h&mv=m&mt=1492360518&lmt=1473187426181746&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=kJ3zWJzwPJKe1gLN45S4BQ&dur=1023.721&signature=3BFE26454B6B8B1B94ABF080862D5F5E642B0ACF.1B5658F3892A28B0E9B2A46562DDADE30A4F6074&initcwndbps=3665000&title=Matrix+vector+products+as+linear+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Transformations as Matrix Vector Products",
+      "Link":"https://www.youtube.com/watch?v=PErhLkQcpZ8",
+      "unShortenedUrl":"https://r3---sn-p5qs7nee.googlevideo.com/videoplayback?expire=1492382195&initcwndbps=3665000&mime=video/mp4&pl=24&upn=KW2nwY4NYZw&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360518&mv=m&ei=kp3zWL_OOpSV1gL7iZnIBA&itag=22&ms=au&mm=31&mn=sn-p5qs7nee&id=o-ALmCPS5MOhYDnYrMDhe6Bp8tcLVgvoimV1IkXKOdyB7q&ip=159.253.144.86&requiressl=yes&signature=6D40A0A2002CBB16F81A89F0E1FB826D5AE7EBB3.1885FF05814E525369F7C11384B78A3C8CABE78E&ipbits=0&key=yt6&source=youtube&ratebypass=yes&dur=1051.538&lmt=1472279163969284&title=Linear+transformations+as+matrix+vector+products+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Image of a subset under a transformation",
+      "Link":"https://www.youtube.com/watch?v=MIAmN5kgp3k",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7z.googlevideo.com/videoplayback?ratebypass=yes&signature=11F7042356E86065E502368727A00230C1D183E1.75D5C1B5B87C30526B59AB96A210EB2D81746FFB&initcwndbps=3665000&ipbits=0&source=youtube&pl=24&itag=22&dur=1090.130&mime=video/mp4&expire=1492382197&ei=lJ3zWJXYOsrL1wL85YzgCQ&lmt=1471151066105702&requiressl=yes&ms=au&mv=m&mt=1492360518&key=yt6&ip=159.253.144.86&upn=4QXrUyW69-w&mm=31&id=o-AL9fTw0xOwh1Yjy0wCggtugH5sfwyLfziab217mKx8wx&mn=sn-p5qs7n7z&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Image+of+a+subset+under+a+transformation+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"im(T):  Image of a Transformation",
+      "Link":"https://www.youtube.com/watch?v=hZ827mfh1Jo",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7l.googlevideo.com/videoplayback?requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&dur=996.391&ei=lp3zWPX6OoGB1gLBmKboBA&mm=31&mn=sn-p5qs7n7l&key=yt6&ip=159.253.144.86&signature=8C30D9B7721BA437ED2F9EEF1E1E1E8CB8759093.D2056F7AA28DAD8771CF96AD26205F147174316E&ipbits=0&ms=au&mt=1492360518&initcwndbps=3665000&mv=m&lmt=1471140808590858&upn=UtvDFWMGUMI&source=youtube&id=o-AAPRI7JugpA0OZJZ_GsRj9VR4PStBpAg-QioGDAcuvq2&ratebypass=yes&itag=22&mime=video/mp4&expire=1492382199&pl=24&title=im(T):+Image+of+a+transformation+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Preimage of a set",
+      "Link":"https://www.youtube.com/watch?v=zVsGtU8lIWs",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7l.googlevideo.com/videoplayback?expire=1492382201&dur=322.780&initcwndbps=3665000&ei=mJ3zWKK3OZqz1gKfk6FY&requiressl=yes&ip=159.253.144.86&mv=m&mt=1492360518&ms=au&mn=sn-p5qs7n7l&mm=31&pl=24&mime=video/mp4&id=o-AMudDg1DtR7_grN_hlh7cWWa06j5wJIg9yAmwLZycdFL&ipbits=0&lmt=1472083758064057&key=yt6&itag=22&upn=NJSpVwK8C9o&signature=54B05061B6304FA55339B20FD7F38F1970A58EAD.A41178FE5190EC22D7F6957DDDCB43F274FD8915&ratebypass=yes&source=youtube&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Preimage+of+a+set+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Preimage and Kernel Example",
+      "Link":"https://www.youtube.com/watch?v=6yrPU8rYOhs",
+      "unShortenedUrl":"https://r5---sn-p5qs7n76.googlevideo.com/videoplayback?ip=159.253.144.86&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=3665000&ei=mp3zWMOHOsXk1gKtlZuYBQ&id=o-ANXR2ScN8QhkC5WKh4qYM4UDVp9gQxNQUV5bFkjZcXAM&upn=V5z9piKX6bw&lmt=1472334591105010&ratebypass=yes&pl=24&dur=922.180&expire=1492382203&key=yt6&signature=61EDDEBD5F3036645DD004D1D7E1575F50632784.45F77E320CC5028ABCD69AED9FD6D801DE65A5D9&ipbits=0&itag=22&mime=video/mp4&requiressl=yes&mm=31&mn=sn-p5qs7n76&mt=1492360518&mv=m&ms=au&source=youtube&title=Preimage+and+kernel+example+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Sums and Scalar Multiples of Linear Transformations",
+      "Link":"https://www.youtube.com/watch?v=wHuY97vss18",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7l.googlevideo.com/videoplayback?itag=22&upn=v2nQtwUdmEg&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&signature=98986DD4DD325B4BCA6B7E5634FAFE18E4BCBFDF.C3A4DA173E565A5D5731F154347B3B4440D475B9&requiressl=yes&initcwndbps=3665000&key=yt6&mime=video/mp4&ratebypass=yes&dur=908.132&lmt=1472081008527681&ms=au&ei=np3zWMudD4zj1gL27ZCgDQ&mn=sn-p5qs7n7l&pl=24&mv=m&ipbits=0&mt=1492360518&source=youtube&id=o-AO9OrEyucECGLx9p5pQV5UIYkmB24Djulg6MhA-A630y&expire=1492382206&mm=31&title=Sums+and+scalar+multiples+of+linear+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"More on Matrix Addition and Scalar Multiplication",
+      "Link":"https://www.youtube.com/watch?v=Z19-ObbmHJE",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?dur=641.056&expire=1492382208&pl=24&ratebypass=yes&lmt=1472421773236557&id=o-AIPtHAKgRZn7ZKq5FbKej3jMWEg30DeC0hoOkgGKgsMt&ei=oJ3zWJouicTXAtH3qtAI&upn=NrbC9TRI-Gs&initcwndbps=3665000&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&source=youtube&ms=au&mt=1492360518&mv=m&mm=31&mn=sn-p5qs7n76&requiressl=yes&key=yt6&itag=22&ipbits=0&signature=804B8E1D80BFE0CAE51B3DD8748D4E2011EBEBB8.6ED6ACA9A0D0A502095BA20FEDD3E105D498D1DE&mime=video/mp4&title=More+on+matrix+addition+and+scalar+multiplication+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Transformation Examples: Scaling and Reflections",
+      "Link":"https://www.youtube.com/watch?v=qkfODKmZ-x4",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?lmt=1472144256675836&mt=1492360518&mv=m&ms=au&mm=31&mn=sn-p5qs7n76&dur=912.590&id=o-AGGWtqm1g-rohH-kcQzbAkMuxRjo2n3_3oPHaLijwFEI&ei=oZ3zWKnGKtyF1gL88rLAAQ&upn=vjlf9teWoY4&ip=159.253.144.86&key=yt6&ipbits=0&signature=7E22BA9E3655BD8D1A437C8D137CD6317112BAE9.303C6B3C3F2416B1546AC55869C60FBE7AEBB7F7&requiressl=yes&pl=24&initcwndbps=3665000&ratebypass=yes&itag=22&expire=1492382209&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&mime=video/mp4&title=Linear+transformation+examples:+Scaling+and+reflections+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Transformation Examples: Rotations in R2",
+      "Link":"https://www.youtube.com/watch?v=lPWfIq5DzqI",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?ipbits=0&ip=159.253.144.86&mm=31&itag=22&mt=1492360518&mv=m&ms=au&pl=24&id=o-AMKExEPYm-VuemORvogUbeNHQM9aDuzfhRWIj4RBIiAD&source=youtube&mn=sn-p5qs7n7z&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ratebypass=yes&lmt=1471667559725572&dur=1071.391&upn=3GSt6LIJuNg&expire=1492382211&ei=op3zWJz4N4OC1gKs6oOgAg&mime=video/mp4&key=yt6&initcwndbps=3665000&signature=804B25CCF8970849F0F8026722735B33A3ACDB5D.83CBC5F38A2086974EA557F42BBD5CD0094AB9E7&title=Linear+transformation+examples:+Rotations+in+R2+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Rotation in R3 around the X-axis",
+      "Link":"https://www.youtube.com/watch?v=gkyuLPzfDV0",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7z.googlevideo.com/videoplayback?mime=video/mp4&source=youtube&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&itag=22&expire=1492382213&initcwndbps=3665000&ratebypass=yes&pl=24&signature=91C4CB4C483E2F6F805B2501A95FD288636353D6.12D9918DA61965C6FB5550FE8C01E5CD33FD37CA&requiressl=yes&key=yt6&ip=159.253.144.86&ipbits=0&ei=pJ3zWJe-OsXE1wLyvriICw&id=o-AH-qzBYPrMZPudyQDGMZ45eWreD2cwdpMYYCQQsy6D9E&upn=06TFT4IvIpU&mm=31&mn=sn-p5qs7n7z&dur=737.930&mt=1492360518&mv=m&ms=au&lmt=1471230360411010&title=Rotation+in+R3+around+the+x-axis+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Unit Vectors",
+      "Link":"https://www.youtube.com/watch?v=lQn7fksaDq0",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7s.googlevideo.com/videoplayback?signature=61CB3174DF88606B7A9C4179FB07D456B17E13EC.87450BB61B188DCE1F9692E4213FEFB70CF57165&key=yt6&source=youtube&dur=418.423&lmt=1471796010343971&requiressl=yes&ratebypass=yes&itag=22&upn=thVXclzXj34&expire=1492382215&mm=31&mn=sn-p5qs7n7s&id=o-AF6nLIviSTS9mlHd8cIOUiwv5VAdcpSJ0C3WbBqH2T6K&mt=1492360518&mv=m&ei=pp3zWJjAOML41gLRzJ6wCw&ms=au&ip=159.253.144.86&pl=24&initcwndbps=3665000&ipbits=0&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&title=Unit+vectors+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Introduction to Projections",
+      "Link":"https://www.youtube.com/watch?v=27vT-NWuw0M",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7s.googlevideo.com/videoplayback?expire=1492382217&ratebypass=yes&dur=876.948&ipbits=0&itag=22&key=yt6&lmt=1471835390514048&mime=video/mp4&ei=qJ3zWJi7Ocf91gKN1rH4AQ&upn=4K0sON2v_mc&source=youtube&initcwndbps=3665000&signature=1DC0A8A4B88396E4E51BB26CE9B0DF26DD3F6641.C85BF888E192AEBEF4142DA1CC6663325424B874&mn=sn-p5qs7n7s&mm=31&pl=24&id=o-ABGTuy3tlaBz0pmqMwSiwielynd8J0tBRCtPyBXa3PPw&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360518&ms=au&requiressl=yes&ip=159.253.144.86&title=Introduction+to+projections+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Expressing a Projection on to a line as a Matrix Vector prod",
+      "Link":"https://www.youtube.com/watch?v=JK-8XNIoAkI",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7l.googlevideo.com/videoplayback?ei=q53zWLH2C8P41gKQ7J-gBg&ip=159.253.144.86&initcwndbps=3665000&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AK-4zXOTqmxj2hRt8UQSLHrqDibwO99dnnB0dayTnr9b&ratebypass=yes&mn=sn-p5qs7n7l&source=youtube&mm=31&ms=au&mv=m&mt=1492360518&dur=1000.222&ipbits=0&itag=22&key=yt6&mime=video/mp4&signature=083023CAC46B56AB657D6B0FAFB72C89015159D3.CF762B16F640E761C953BBC85D33A81578C16B11&lmt=1473360924886742&expire=1492382219&upn=Ounb2p96G6I&requiressl=yes&pl=24&title=Expressing+a+projection+on+to+a+line+as+a+matrix+vector+prod+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Compositions of Linear Transformations 1",
+      "Link":"https://www.youtube.com/watch?v=f_DTiXZpb8M",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?ipbits=0&itag=22&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=3665000&expire=1492382221&lmt=1471728500407753&mime=video/mp4&key=yt6&signature=77258CD14A05A2E0FAB01A7CC486280CC8A537C5.90315C8445C526D2CCD0DD943E9798C5E13C13E2&ratebypass=yes&ei=rJ3zWO_xOJnm1gKD04WYCg&upn=Hz8VbOhvRfk&mt=1492360518&mv=m&ms=au&source=youtube&ip=159.253.144.86&mm=31&pl=24&mn=sn-p5qs7n7s&id=o-AF5lfy_vZZSkV9lLtIiQFa9zuRkOXj-AwM5edJo_WgZJ&dur=740.646&requiressl=yes&title=Compositions+of+linear+transformations+1+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Compositions of Linear Transformations 2",
+      "Link":"https://www.youtube.com/watch?v=BuqcKpe5ZQs",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7d.googlevideo.com/videoplayback?itag=22&pl=24&dur=990.238&mm=31&source=youtube&expire=1492382223&mime=video/mp4&signature=A13DCDDB38D47C98FDEE06EA9DA827AC4D191E64.A8263CE5E1139075591A47BF609730892F01282B&ratebypass=yes&ipbits=0&initcwndbps=3665000&ip=159.253.144.86&key=yt6&ms=au&mv=m&mt=1492360518&id=o-APWNo5eZidy9dPeRypHOZK33y1A5VYPdY0qjqQy_v3S7&mn=sn-p5qs7n7d&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&upn=_eSLuykM2u8&lmt=1470924356644577&ei=rp3zWOKAOcqN1gKtsJ-IDg&requiressl=yes&title=Compositions+of+linear+transformations+2+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Matrix Product Examples",
+      "Link":"https://www.youtube.com/watch?v=x1z0hOyjapU",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7e.googlevideo.com/videoplayback?mm=31&mn=sn-p5qs7n7e&id=o-APVXSlLHKbl9euoZQeYj_QUh01aMFhzX4RguAxCvBsVx&ip=159.253.144.86&pl=24&mt=1492360518&mv=m&ei=sZ3zWL-hA5ay1gLgv6iQCA&ms=au&ratebypass=yes&upn=ujySvhqWc38&expire=1492382225&itag=22&key=yt6&signature=381E759277818911A48B92E45A2257DA43923C15.B76A9AE1C711394D326A58A60C31DF025F25F38F&requiressl=yes&source=youtube&dur=1093.799&lmt=1471597000269529&ipbits=0&initcwndbps=3665000&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&title=Matrix+product+examples+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Matrix Product Associativity",
+      "Link":"https://www.youtube.com/watch?v=Hhc96U_HvQE",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7s.googlevideo.com/videoplayback?initcwndbps=3665000&signature=8E9289AC2B05ECCDFE0A2B1277786108AE04BCDC.6D431EEE5C667F9DE40286902D3C9E7E927F9F31&dur=718.959&key=yt6&upn=-OuW_ItUWDo&ipbits=0&ratebypass=yes&itag=22&ip=159.253.144.86&mime=video/mp4&requiressl=yes&source=youtube&mm=31&mn=sn-p5qs7n7s&pl=24&mt=1492360518&mv=m&id=o-AB9wWQ7dgy5p7YZPLQxurmBz3flcHS3VBfExIRejXmlc&ms=au&expire=1492382227&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&lmt=1472456147538060&ei=s53zWILXC5ay1gK-mrvQCg&title=Matrix+product+associativity+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Distributive Property of Matrix Products",
+      "Link":"https://www.youtube.com/watch?v=oMWTMj78cwc",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7e.googlevideo.com/videoplayback?mt=1492360518&ratebypass=yes&itag=22&initcwndbps=3665000&mime=video/mp4&ipbits=0&key=yt6&upn=ivMgqaGOqyE&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382229&source=youtube&mv=m&ei=tJ3zWImrPI291gKZ07-YBA&ms=au&ip=159.253.144.86&lmt=1470894309674685&dur=591.737&pl=24&mm=31&mn=sn-p5qs7n7e&id=o-AERNPp16lh6BUwtAmN5_JXnzfpWYygaVdT1b7QHHQQCI&signature=4150AE01190D0908434CEEAE2DE5785E26CE1BC3.C02620F6376A13A1A1D240663E94F9AC79D73799&requiressl=yes&title=Distributive+property+of+matrix+products+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Introduction to the inverse of a function",
+      "Link":"https://www.youtube.com/watch?v=-eAzhBZgq28",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7s.googlevideo.com/videoplayback?requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&dur=1133.040&lmt=1472458563060819&ratebypass=yes&itag=22&signature=3D42C342657A2D0BD85CAE3CD4B508B15AF7FC90.BCDF5B0EDC0D03C8BB3440BAEAAE2C3FEF1BBB57&initcwndbps=3665000&mime=video/mp4&key=yt6&ei=uJ3zWJ7gBcnL1gLnpIGoAw&upn=XROqKistQoA&expire=1492382232&id=o-AN4j7Gelq3RzwMAyXhgwVA3_ZIWxBpaKZXxnJNEQQSYE&pl=24&ms=au&mt=1492360518&mv=m&ip=159.253.144.86&mm=31&mn=sn-p5qs7n7s&ipbits=0&title=Introduction+to+the+inverse+of+a+function+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Proof: Invertibility implies a unique solution to f(x)=y",
+      "Link":"https://www.youtube.com/watch?v=7GEUgRcnfVE",
+      "unShortenedUrl":"https://r3---sn-p5qs7n76.googlevideo.com/videoplayback?signature=2E3733AB37F427DDC6C3508B813B3C174878F2C0.14A7CE14893FD03E323751B70D48B0831FE19185&source=youtube&mime=video/mp4&requiressl=yes&initcwndbps=3665000&ipbits=0&dur=1360.317&key=yt6&lmt=1471014210765212&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&id=o-ABOgp2fQrusu7vDsQndZlq6b8Zuw4Pkf-kV3WrdNelkS&ratebypass=yes&expire=1492382233&mn=sn-p5qs7n76&mm=31&itag=22&upn=FJ6ClPoCkmE&ms=au&ei=uZ3zWO7kGsfu1gKuuIigCA&pl=24&mv=m&mt=1492360518&title=Proof:+Invertibility+implies+a+unique+solution+to+f(x)=y+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Surjective (onto) and Injective (one-to-one) functions",
+      "Link":"https://www.youtube.com/watch?v=xKNX8BUWR0g",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7z.googlevideo.com/videoplayback?ei=up3zWP3OOJKt1gK5yIz4Aw&id=o-AMBCG34nJIJ3AEzs-MW4zkF62rKr7X3uYtgHMpy5qzNf&ms=au&requiressl=yes&mt=1492360518&pl=24&mv=m&ratebypass=yes&ip=159.253.144.86&mm=31&source=youtube&mn=sn-p5qs7n7z&upn=_IfZUPh3cZo&itag=22&mime=video/mp4&dur=571.234&signature=2A18093A0624D10C79A13A4A99638B56D534C083.4358A2486449051447D4CC0692116658B2E314AC&ipbits=0&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382235&lmt=1471843116889476&key=yt6&initcwndbps=3665000&title=Surjective+(onto)+and+injective+(one-to-one)+functions+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Relating invertibility to being onto and one-to-one",
+      "Link":"https://www.youtube.com/watch?v=QIU1daMN8fw",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?upn=OlCJlZY3PEo&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&initcwndbps=3665000&pl=24&ei=vJ3zWOn3O57h1gL8va6YAQ&ip=159.253.144.86&lmt=1471800869282582&key=yt6&id=o-AHq1U7SgVFI4lqHq1KIW7cMjwgqPkz-bEKzLmP2lj0m0&expire=1492382237&mm=31&signature=32C69151E36E898FFF952B1979607D4614B90479.4D62F388A0E2D2FE3C1B9A8D22225DFEC3F5922D&mn=sn-p5qs7n7d&itag=22&mt=1492360518&mv=m&ms=au&dur=390.931&requiressl=yes&ratebypass=yes&ipbits=0&mime=video/mp4&title=Relating+invertibility+to+being+onto+and+one-to-one+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Determining whether a transformation is onto",
+      "Link":"https://www.youtube.com/watch?v=eR8vEdJTvd0",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7l.googlevideo.com/videoplayback?ei=v53zWOTvB8yb1gK1npO4BQ&initcwndbps=3665000&source=youtube&upn=ac-tqe_dDwM&itag=22&key=yt6&mime=video/mp4&dur=1550.930&ipbits=0&expire=1492382239&ratebypass=yes&pl=24&id=o-AA97-A2dhAi7RrMEJtc5r9mQs-PWNaZWpO1h5Fqvt8u2&mn=sn-p5qs7n7l&mm=31&signature=6EB36F9DC6079FE3C9F99AD9060EDF904DBAC1A8.02B3AFC5EFFBE416778A5794F5BEEE668DA7EF17&lmt=1471752100738678&requiressl=yes&ip=159.253.144.86&ms=au&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360518&title=Determining+whether+a+transformation+is+onto+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Exploring the solution set of Ax=b",
+      "Link":"https://www.youtube.com/watch?v=1PsNIzUJPkc",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7z.googlevideo.com/videoplayback?ipbits=0&upn=ScRRs7VHkMI&source=youtube&signature=D21C9EB9CBDFF6C3061209121B2C30588906B92C.8BB77503363130626259AF36B037EF1DF513EDEF&expire=1492382241&lmt=1471065740509730&ratebypass=yes&mime=video/mp4&requiressl=yes&id=o-AGfh9_LMUS88Vow4l076fFCrsNLj9TTbV0Am67S-LjdZ&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&itag=22&ms=au&initcwndbps=3665000&mv=m&dur=993.535&mt=1492360518&pl=24&mn=sn-p5qs7n7z&ip=159.253.144.86&mm=31&key=yt6&ei=wJ3zWMmVOdms1gL7kZaAAw&title=Exploring+the+solution+set+of+Ax+=+b+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Matrix condition for one-to-one trans",
+      "Link":"https://www.youtube.com/watch?v=M3FuL9qKTBs",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7s.googlevideo.com/videoplayback?id=o-AEEw6VO2XyZd5CTpA-yPSwv-GdqUvF3cV_CL4feKYO5e&mn=sn-p5qs7n7s&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&upn=gA5AIPh74mY&key=yt6&ip=159.253.144.86&ms=au&mv=m&mt=1492360518&mm=31&lmt=1471948672586222&ei=wp3zWJuROM301gKG5JmwBw&source=youtube&expire=1492382243&mime=video/mp4&pl=24&itag=22&dur=1199.055&requiressl=yes&ipbits=0&initcwndbps=3665000&signature=80EEDD0BF40AE85565F3D6DDA8DB1B3A1037C813.E171F41B9E94B382B874DCFD778A132130B752A4&ratebypass=yes&title=Matrix+condition+for+one-to-one+trans+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Simplifying conditions for invertibility",
+      "Link":"https://www.youtube.com/watch?v=Yz2OosyMTmY",
+      "unShortenedUrl":"https://r5---sn-p5qs7nee.googlevideo.com/videoplayback?ratebypass=yes&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&ip=159.253.144.86&lmt=1471130067534676&upn=5AtbcCZrfdQ&ei=xJ3zWI_oO86O1gKGg4_QCw&mt=1492360582&expire=1492382245&ipbits=0&mm=31&mn=sn-p5qs7nee&itag=22&dur=396.248&id=o-AB6-fqfBwGmx-GdkVqRFAGtp1nh8hD68aFMEaQfjxaNB&initcwndbps=4057500&pl=24&source=youtube&mv=m&mime=video/mp4&signature=811317FD6D99ACB8625B069474C720A24AC9D415.4EF3698A18EF1ED75518827AE710C339828533C5&ms=au&title=Simplifying+conditions+for+invertibility+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Showing that Inverses are Linear",
+      "Link":"https://www.youtube.com/watch?v=mr9Tow8hpCg",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7d.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AJm2SgCBO7fxya0Z58Xqllln5_MhoVYSiDAkiGy8DdPz&mv=m&dur=1284.249&mt=1492360582&itag=22&ms=au&initcwndbps=4057500&mn=sn-p5qs7n7d&ip=159.253.144.86&mm=31&pl=24&expire=1492382247&ratebypass=yes&lmt=1470899330260274&requiressl=yes&mime=video/mp4&upn=i6KaDN6fixg&source=youtube&signature=C091D9E166B854F027715D34C138FABE37FC85A9.25EE8C38051DC5711A72D9EFE3FAAD1043D76D22&key=yt6&ipbits=0&ei=xp3zWMLAO8qH1gL_mIGYBg&title=Showing+that+inverses+are+linear+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Deriving a method for determining inverses",
+      "Link":"https://www.youtube.com/watch?v=6DpzCKJBsz0",
+      "unShortenedUrl":"https://r4---sn-p5qs7nee.googlevideo.com/videoplayback?ei=yJ3zWMaGOp6n1gLf0qvYDQ&pl=24&ipbits=0&upn=2DRrZ1oNd-s&requiressl=yes&ratebypass=yes&itag=22&ip=159.253.144.86&lmt=1472881214305099&dur=1079.727&expire=1492382249&key=yt6&mime=video/mp4&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&mn=sn-p5qs7nee&mm=31&id=o-AHdRs7qfHoFApCNo1dXjIUk5p3Cpn_DCyAlgY1oBwzEP&mv=m&mt=1492360582&ms=au&signature=B2C6CDEA2B6298BEFC1A734656CEDB5FEB4EBF90.ABA23422EB1B8C54FE2D44CFC9B7F71DC75B9AD2&source=youtube&title=Deriving+a+method+for+determining+inverses+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Example of Finding Matrix Inverse",
+      "Link":"https://www.youtube.com/watch?v=r9aTLTN16V4",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7e.googlevideo.com/videoplayback?pl=24&ipbits=0&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&requiressl=yes&ei=yp3zWLPxOof51gKhqqTQCQ&itag=22&mn=sn-p5qs7n7e&mm=31&ms=au&mv=m&mt=1492360582&source=youtube&ip=159.253.144.86&dur=381.945&id=o-APGwsA_XqVr-SOayf8eZW15zAGYpzn0w7ZHcKs0Y0SbV&signature=62C3ACBA1F6F0E4F872937250FE513BD4921F265.252F9E64A512DA75D956C00243D0D73653395051&mime=video/mp4&upn=CV_Y1_3iB_k&ratebypass=yes&expire=1492382251&lmt=1472157225180192&title=Example+of+finding+matrix+inverse+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Formula for 2x2 inverse",
+      "Link":"https://www.youtube.com/watch?v=eEUK_ThrHuQ",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7d.googlevideo.com/videoplayback?mime=video/mp4&key=yt6&itag=22&ratebypass=yes&ip=159.253.144.86&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=E3787B25F1126DCFD2EF6B13BCE873011F83B311.45308065C300CEB46DBC9345F3FB7170E57D6A45&ipbits=0&expire=1492382253&lmt=1472289435109014&initcwndbps=4057500&source=youtube&ms=au&mt=1492360582&mv=m&id=o-AH0fO2V4OnSvIcrSkxyjHSPa7kptbmbZ-STemqasE0Ng&dur=1099.743&requiressl=yes&mm=31&pl=24&mn=sn-p5qs7n7d&upn=1HoyP8cBzH8&ei=zJ3zWL-VN5OR1gKE-Kk4&title=Formula+for+2x2+inverse+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: 3x3 Determinant",
+      "Link":"https://www.youtube.com/watch?v=0c7dt2SQfLw",
+      "unShortenedUrl":"https://r2---sn-p5qs7nee.googlevideo.com/videoplayback?ip=159.253.144.86&ratebypass=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&key=yt6&ei=zp3zWKeTOMmf1gLclZnIBQ&mt=1492360582&upn=gDasaI72NR4&lmt=1472211993150929&expire=1492382255&itag=22&mn=sn-p5qs7nee&ipbits=0&mm=31&signature=5B459C774E2466A577503662035B0502C268D957.B102A83EA418CF916F10B4DD95E1137264C095E5&ms=au&mime=video/mp4&mv=m&source=youtube&pl=24&id=o-ANUytelt8Ymt-3R-ItxMlUEhfBjiXA1YZ6UyoQk4srOr&initcwndbps=4057500&dur=600.723&title=3+x+3+determinant+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: nxn Determinant",
+      "Link":"https://www.youtube.com/watch?v=H9BWRYJNIv4",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?ipbits=0&itag=22&lmt=1471144861191905&mm=31&ip=159.253.144.86&mn=sn-p5qs7n76&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360582&pl=24&mv=m&ms=au&requiressl=yes&mime=video/mp4&id=o-AKqRh7O7bhwGkOa4k95Ft1J8kVcoVXn5KtMvSgoy53b7&dur=1119.434&initcwndbps=4057500&expire=1492382258&ei=0p3zWK2SAozw1gK_o56YBg&key=yt6&source=youtube&signature=95FEC661A6B9195F6F18F7A469350DD1238CC1FB.3A731898E5DA45076CE4ED2E384458DCCDBEA9A7&ratebypass=yes&upn=RMBAQdikHdw&title=n+x+n+determinant+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Determinants along other rows/cols",
+      "Link":"https://www.youtube.com/watch?v=nu87kfmwNfU",
+      "unShortenedUrl":"https://r1---sn-p5qs7nee.googlevideo.com/videoplayback?source=youtube&mime=video/mp4&itag=22&expire=1492382259&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&ratebypass=yes&signature=86F89C443C4119E20860604734642A6ED272895D.4AD4494D37726B681FE5D3DDCC1099BBD3497078&requiressl=yes&pl=24&ip=159.253.144.86&key=yt6&ipbits=0&upn=5L7kmBgsQm4&id=o-AMfwtA0ZD67GazEFwWovurl2d2tjnp0VWf620sAxPaju&ei=053zWLK6Ic3I1gLpu5l4&mn=sn-p5qs7nee&mm=31&dur=542.928&lmt=1472287795738590&mv=m&mt=1492360582&ms=au&title=Determinants+along+other+rows/cols+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Rule of Sarrus of Determinants",
+      "Link":"https://www.youtube.com/watch?v=4xFIi0JF2AM",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?dur=437.533&ratebypass=yes&requiressl=yes&ei=1Z3zWJI-iYzWAvORsbgM&initcwndbps=4057500&source=youtube&ipbits=0&lmt=1471022407779198&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AI0gQioIA-hhLrtBLHStLjGCcdluZZtzT8pliPavU-uF&signature=D88D20096871841F2C966E90FCB18501A2E66E31.82CECF44D1D3A910F49A5AFF0BDD5949D7052C4C&ms=au&upn=sM6z8r4tcoA&mv=m&mt=1492360582&pl=24&expire=1492382261&mn=sn-p5qs7n76&mm=31&ip=159.253.144.86&itag=22&key=yt6&mime=video/mp4&title=Rule+of+Sarrus+of+determinants+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Determinant when row multiplied by scalar",
+      "Link":"https://www.youtube.com/watch?v=32rdijPB-rA",
+      "unShortenedUrl":"https://r6---sn-p5qs7nee.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&initcwndbps=4057500&ipbits=0&mt=1492360582&mv=m&ei=1p3zWKuGONWF1gLWx5KoBg&ms=au&ip=159.253.144.86&pl=24&mm=31&mn=sn-p5qs7nee&id=o-AKNujsD67VhqB1MrB8MfhN8RGOuwT5tdeI2cDEkaH__w&itag=22&upn=55lS8h_52po&expire=1492382263&ratebypass=yes&source=youtube&dur=799.532&lmt=1472451133173315&requiressl=yes&key=yt6&signature=7A0E10A51FB0B31FD0F5915EC2C4FAD07B7BF31B.0B25BAC357C2AC3FE49E083FCD3D8AB2CD5D1038&title=Determinant+when+row+multiplied+by+scalar+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: (correction) scalar muliplication of row",
+      "Link":"https://www.youtube.com/watch?v=WY6QG0mZ7uQ",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7z.googlevideo.com/videoplayback?expire=1492382265&mm=31&upn=7zwwR7OR4Zc&mn=sn-p5qs7n7z&ei=2J3zWNqLOIeA1gLZtK7QDw&mv=m&pl=24&mt=1492360582&signature=CAC1F752DC74E45B7D332F3413C1DB319B0919CF.2F28526773B8AF67B7C6C35F9B3C85515E285B99&source=youtube&itag=22&mime=video/mp4&requiressl=yes&ipbits=0&initcwndbps=4057500&dur=171.456&key=yt6&lmt=1471997916805096&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&ms=au&id=o-APonrCtXvC5dIOTf9boAH1IzIDFupKOq-r0ZZtD6rd6N&ratebypass=yes&title=(correction)+scalar+multiplication+of+row+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Determinant when row is added",
+      "Link":"https://www.youtube.com/watch?v=VrB3LaSD_uo",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7s.googlevideo.com/videoplayback?mt=1492360582&mv=m&ms=au&source=youtube&key=yt6&requiressl=yes&mm=31&mn=sn-p5qs7n7s&itag=22&signature=466C9E839004A47A5A38862C5158586B6710DA9E.3FC554714BC9593EAA7F120753B94D6951ACF6B5&ipbits=0&pl=24&dur=1014.851&expire=1492382267&ratebypass=yes&mime=video/mp4&initcwndbps=4057500&ei=253zWNzqC8301gKQzLHACw&id=o-ADNmKle5spOmCkTkQlDbMz6nXfklbl2c5KA87FLeGHCh&upn=W0706wVHnRQ&lmt=1257278757222145&ip=159.253.144.86&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Determinant+when+row+is+added+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Duplicate Row Determinant",
+      "Link":"https://www.youtube.com/watch?v=gYv8sttBIqs",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7z.googlevideo.com/videoplayback?source=youtube&ratebypass=yes&lmt=1470966631842462&pl=24&upn=JUtgubFvhCE&signature=BE4530D10AC59EE27024B51F1CD22C50925BFF33.BF10FD25C2909D037B3D066AB9ADBF45FC99A9ED&id=o-AAvynrrGqPzvCZ3RJVlvc52r1Q4HIkH_y1dWQdCFlLuF&ms=au&mt=1492360582&mv=m&initcwndbps=4057500&mm=31&mn=sn-p5qs7n7z&ip=159.253.144.86&key=yt6&dur=498.532&ei=3Z3zWKSIAYfH1wKR_raQCg&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382269&ipbits=0&itag=22&mime=video/mp4&title=Duplicate+row+determinant+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Determinant after row operations",
+      "Link":"https://www.youtube.com/watch?v=kpG7xySkivg",
+      "unShortenedUrl":"https://r5---sn-p5qs7n76.googlevideo.com/videoplayback?ms=au&mt=1492360582&mv=m&source=youtube&signature=6CCE522B687F518F32DF4286106BEA3BF6B6E6C5.42BC598876344A3F2DAB1435663EBCA560C5F747&ip=159.253.144.86&initcwndbps=4057500&id=o-ANThFL384sLjL0J3AQdo0Aj-OP6p79-T0PJVQksgfPpo&mm=31&mn=sn-p5qs7n76&expire=1492382271&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&key=yt6&dur=624.222&lmt=1471068978411535&ratebypass=yes&itag=22&requiressl=yes&upn=_dELa1LM74I&ipbits=0&ei=353zWJGAI9yn1gLnrptY&pl=24&title=Determinant+after+row+operations+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Upper Triangular Determinant",
+      "Link":"https://www.youtube.com/watch?v=VX7K8iqoiRc",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7z.googlevideo.com/videoplayback?pl=24&signature=D06F01F32266FBD21185B1F690587FA4F678E638.A9CDAC5AC53351F87AB8DF3BCEAEA3AC4E691E94&requiressl=yes&initcwndbps=4057500&ratebypass=yes&ei=4Z3zWO6fJMXE1wK2yb7YCw&id=o-AHC5r4exhWTe9gprbbiGwuTialkYLlmUszK_OGbRjEcj&upn=23NPY9gL0yA&key=yt6&ip=159.253.144.86&ipbits=0&mt=1492360582&mv=m&ms=au&lmt=1471035002820583&mm=31&mn=sn-p5qs7n7z&dur=486.922&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&itag=22&expire=1492382273&mime=video/mp4&source=youtube&title=Upper+triangular+determinant+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Simpler 4x4 determinant",
+      "Link":"https://www.youtube.com/watch?v=QV0jsTiobU4",
+      "unShortenedUrl":"https://r2---sn-p5qs7nee.googlevideo.com/videoplayback?ratebypass=yes&signature=31D97A15E43E07079060A8792C7D566F0C71D1CC.61B1E2032658AE4464641AEE69E88F2EDEFFD768&mime=video/mp4&key=yt6&requiressl=yes&initcwndbps=4057500&expire=1492382275&ipbits=0&dur=552.333&lmt=1471682182656200&ei=453zWIzEHNKf1gLv7rW4Aw&itag=22&pl=24&upn=bL7j1sV9_90&source=youtube&mm=31&mn=sn-p5qs7nee&id=o-APIf1MycSQChVAOocGBwD-bYJKSArujCO5krOP879bfF&mt=1492360582&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&ms=au&ip=159.253.144.86&title=Simpler+4x4+determinant+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Determinant and area of a parallelogram",
+      "Link":"https://www.youtube.com/watch?v=n-S63_goDFg",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7z.googlevideo.com/videoplayback?dur=1297.043&ei=5J3zWLb1OImb1gLTv4XgAg&initcwndbps=4057500&expire=1492382277&pl=24&id=o-AHb3HX7fLtQ67538Chxxpnb26DrbJS-H2p6ViI89cDU1&mime=video/mp4&mn=sn-p5qs7n7z&mm=31&ipbits=0&requiressl=yes&ip=159.253.144.86&ms=au&mv=m&mt=1492360582&ratebypass=yes&upn=Wj7nwzVskVA&signature=A7DCF541885CFD6B1657F14C2695521FF8682F8F.94AA699ACE7E70899C9FCA7F12BDD89331FF541F&itag=22&lmt=1471068223630581&key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&title=Determinant+and+area+of+a+parallelogram+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Determinant as Scaling Factor",
+      "Link":"https://www.youtube.com/watch?v=g3MqSdO5Ubc",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7z.googlevideo.com/videoplayback?requiressl=yes&ratebypass=yes&source=youtube&dur=1209.039&initcwndbps=4057500&pl=24&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=5p3zWPqgOdKT1gKixpLoDw&ip=159.253.144.86&id=o-AEmytEJDwMBS54S_mSQjVBMu15Bui5EgtvfSnop7ZaZe&upn=9kfAqVmn1DY&mm=31&mn=sn-p5qs7n7z&mt=1492360582&mv=m&ms=au&signature=A356AB9E275E940CCBC9B3022EA670B60AFC6CC0.C7071E7ECE68E9CF95B5C86F3C1D40069DB187A6&itag=22&ipbits=0&lmt=1472369121443522&expire=1492382279&mime=video/mp4&key=yt6&title=Determinant+as+scaling+factor+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Transpose of a Matrix",
+      "Link":"https://www.youtube.com/watch?v=2t0003_sxtU",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7d.googlevideo.com/videoplayback?ei=6J3zWLbVOcyR1gL_yZH4Ag&ip=159.253.144.86&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AA_pMOAwmp8qqPIzmgAkJETYi-iagRY03hJvrcupP6Ib&upn=Fu-4YC99jCw&mn=sn-p5qs7n7d&mm=31&source=youtube&ms=au&mv=m&mt=1492360582&dur=516.458&ipbits=0&key=yt6&itag=22&mime=video/mp4&signature=9CF375FBA3084F890301AD20A26A23557AAC815E.6D6A7D85379877258A7F219230640B0A3A69163A&lmt=1472353644463815&expire=1492382281&ratebypass=yes&requiressl=yes&pl=24&title=Transpose+of+a+matrix+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Determinant of Transpose",
+      "Link":"https://www.youtube.com/watch?v=x-GV2v0dRNE",
+      "unShortenedUrl":"https://r4---sn-p5qs7nee.googlevideo.com/videoplayback?itag=22&mt=1492360582&mn=sn-p5qs7nee&mm=31&ip=159.253.144.86&ms=au&signature=A406B76F1B7D7A2ED4648BA441DB455C94F12D56.460B514BF9A9A21D68C32578C7202444C58CC522&mime=video/mp4&mv=m&source=youtube&pl=24&initcwndbps=4057500&id=o-AGdkWFxp9P8UcktGimoWi1sIqaezY1SUvx3R_B1zHWhT&dur=849.432&ei=7J3zWN6UDZei1gLP-6z4Dg&upn=awcdOwFHMRM&lmt=1471139347652993&expire=1492382284&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&key=yt6&ipbits=0&ratebypass=yes&title=Determinant+of+transpose+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Transpose of a Matrix Product",
+      "Link":"https://www.youtube.com/watch?v=UdHgWK13x5I",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7s.googlevideo.com/videoplayback?itag=22&id=o-AHA0Ga1mkBIlDN_yVD8mvsALcXqMcv56RdhrBtDmiVWb&key=yt6&ip=159.253.144.86&lmt=1471902742996451&dur=529.438&mv=m&source=youtube&ms=au&ei=7Z3zWLfuMNnB1gLwrqXADA&expire=1492382285&requiressl=yes&mn=sn-p5qs7n7s&mm=31&ipbits=0&initcwndbps=4057500&mt=1492360582&pl=24&signature=0B473BAEAAA44E2B95239524E764287E14F0C5F8.13360A43C7073230A0E051D22A0D7DEA0A2676EF&ratebypass=yes&mime=video/mp4&upn=aXP4A_dxNdI&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Transpose+of+a+matrix+product+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Transposes of sums and inverses",
+      "Link":"https://www.youtube.com/watch?v=Br_8t58mdeI",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7z.googlevideo.com/videoplayback?itag=22&mm=31&mn=sn-p5qs7n7z&ei=753zWIi-BpzF1gL4iLyQCA&ms=au&mt=1492360582&pl=24&mv=m&upn=F1OBLs4N6tQ&source=youtube&signature=BD7586A9A8E2F2185C4D1C25109514D28B945D30.5ABFD5DADB57A6D543211456356839A3F76429C2&requiressl=yes&mime=video/mp4&initcwndbps=4057500&ipbits=0&dur=520.196&expire=1492382287&lmt=1470888565688647&key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ip=159.253.144.86&ratebypass=yes&id=o-ALscBE34mnKcOpuvoMlEgUtAcMogH4Z25yz8QEH1GGj5&title=Transposes+of+sums+and+inverses+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Transpose of a Vector",
+      "Link":"https://www.youtube.com/watch?v=lSoaMCNKfAg",
+      "unShortenedUrl":"https://r6---sn-p5qs7nee.googlevideo.com/videoplayback?ratebypass=yes&ip=159.253.144.86&source=youtube&mm=31&mn=sn-p5qs7nee&id=o-AHl6lYWOfiKKm3wTQsFal0UcWscKn28vMeCbN8PKcT-u&ei=8Z3zWM24CcXU1gKq47CIDw&ms=au&mt=1492360582&mv=m&pl=24&key=yt6&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&lmt=1472108382173016&ipbits=0&signature=49345752F6AC30F33984092F1DA717E5CBB75938.7304CC3889E65E79917DE56D2D77A1E591FBC3F4&expire=1492382289&mime=video/mp4&dur=726.064&upn=nPZZGNZrL2Q&itag=22&title=Transpose+of+a+vector+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Rowspace and Left Nullspace",
+      "Link":"https://www.youtube.com/watch?v=qBfc57x_RSg",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?lmt=1471544649265006&ei=853zWICyC8LS1gKwqrKQBw&upn=xezxnajG9NE&expire=1492382291&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&ratebypass=yes&ip=159.253.144.86&mm=31&ipbits=0&mn=sn-p5qs7n76&itag=22&mt=1492360582&initcwndbps=4057500&id=o-AHpX0sQp9WSlm_Fi7X04GV_IFwoXIsWRgeTq0lMqxdJe&pl=24&dur=1398.236&mime=video/mp4&ms=au&signature=C52BD40A6998C72D70C32C32A44412FA88454FC5.83CB5491BAB7825E29761EEF8B7DAFA89A9D1688&source=youtube&mv=m&title=Rowspace+and+left+nullspace+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Visualizations of Left Nullspace and Rowspace",
+      "Link":"https://www.youtube.com/watch?v=GW8ZPjGlk24",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7e.googlevideo.com/videoplayback?ms=au&ei=9J3zWM-vOdW81gKkvLWABw&id=o-ABecyZVEhUXuAi0r22moDmuHXnUzuoqL4nOwUQxCzv-F&pl=24&mv=m&mt=1492360582&mn=sn-p5qs7n7e&mm=31&source=youtube&ratebypass=yes&expire=1492382293&ip=159.253.144.86&requiressl=yes&lmt=1471372754928553&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&key=yt6&signature=97BBED86A2CE7AE7A6AB7A020470D160FAC84FBF.1F0A37D8168343666CD1A217DC8BB756D35CE484&ipbits=0&itag=22&upn=PF0l4igyaJk&dur=1189.442&mime=video/mp4&title=Visualizations+of+left+nullspace+and+rowspace+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Orthogonal Complements",
+      "Link":"https://www.youtube.com/watch?v=QOTjdgmNqlg",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7d.googlevideo.com/videoplayback?id=o-AGJBh3n_hWwmUKl3RltDLVHTu46int8cehCDNNDP-SKa&source=youtube&dur=1327.252&ip=159.253.144.86&itag=22&lmt=1471521568805220&requiressl=yes&mv=m&pl=24&mt=1492360582&ms=au&ei=9p3zWKD2OdKA1gLY97_ABw&signature=C8ED2226117789288641C90184EBB6AAAF0FB98B.B41631DF9C196C5CCC36826ADF993DBC58F0B612&key=yt6&mn=sn-p5qs7n7d&mm=31&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&ipbits=0&ratebypass=yes&expire=1492382295&mime=video/mp4&upn=aBjiH-F93eE&title=Orthogonal+complements+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Rank(A) = Rank(transpose of A)",
+      "Link":"https://www.youtube.com/watch?v=tqqVOWm9YsU",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7d.googlevideo.com/videoplayback?expire=1492382297&pl=24&mime=video/mp4&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&upn=8q4TQA8m6gs&mv=m&mt=1492360582&itag=22&ms=au&ei=-J3zWN2XOtqc1gLX2pvoBA&mn=sn-p5qs7n7d&mm=31&id=o-ADqoBP1x8WYyDxwI8U8uYNxZZ3ynOhz8YVk9ViPrh9AH&requiressl=yes&ipbits=0&signature=C6ACFD8E85D41ED4F3784719F680BCD7A78831E7.DB9D657B2A51F7D37ED55EA0C415DAA28D532323&key=yt6&dur=673.239&source=youtube&ratebypass=yes&ip=159.253.144.86&lmt=1472312343900650&title=rank(a)+=+rank(transpose+of+a)+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: dim(V) + dim(orthogonoal complelent of V)=n",
+      "Link":"https://www.youtube.com/watch?v=pGhBfkBqok0",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7s.googlevideo.com/videoplayback?requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&dur=566.729&ei=-p3zWKXkPMGK1gK9gby4Cw&mn=sn-p5qs7n7s&mm=31&ip=159.253.144.86&key=yt6&signature=325235E3D69913BC284C64ADA99924EBFA857D85.879CD6B8BA400CA5C1D1BC2F2DEA9002BF90AE3F&ms=au&ipbits=0&mv=m&initcwndbps=4057500&mt=1492360582&lmt=1471176609474469&upn=jhdcEuMwkmQ&source=youtube&ratebypass=yes&id=o-AMhsD-wKFNqoD6XvjIuThiPu6Sfc-hoGbIhi9xTw_9ff&itag=22&pl=24&mime=video/mp4&expire=1492382299&title=dim(v)+++dim(orthogonal+complement+of+v)+=+n+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Representing vectors in Rn using subspace members",
+      "Link":"https://www.youtube.com/watch?v=M6lFqkqvUgo",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?signature=251E4A94BDCB4323B450D35A4B6DFCBF1B0A0AF1.0ABD5946778EEEECB2CFE1F680E60D78441C4023&key=yt6&source=youtube&dur=1620.056&lmt=1471415502911212&requiressl=yes&ratebypass=yes&itag=22&upn=BN7y5g3ldCE&expire=1492382301&mm=31&mn=sn-p5qs7n76&id=o-AAi082w1SINGel_QYytbtLRts4pnb-jwuV6nm0lfUJ5t&mt=1492360582&mv=m&ei=_Z3zWPrVC96l1gKt5SY&ms=au&ip=159.253.144.86&pl=24&initcwndbps=4057500&ipbits=0&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&title=Representing+vectors+in+rn+using+subspace+members+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg:  Orthogonal Complement of the Orthogonal Complement",
+      "Link":"https://www.youtube.com/watch?v=zlI8mx8Hc8o",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7z.googlevideo.com/videoplayback?mv=m&mt=1492360639&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ms=au&pl=24&id=o-AMxoz8F2-oNLXZ4BH20tM9frHj9K173F9nZ8Uz94OKeL&mime=video/mp4&mn=sn-p5qs7n7z&ip=159.253.144.86&key=yt6&mm=31&ipbits=0&upn=lDVDAewT07Q&ratebypass=yes&initcwndbps=4057500&source=youtube&dur=737.465&lmt=1470939447037846&expire=1492382305&ei=AJ7zWNGKN5mm1gKQuZOwBw&requiressl=yes&signature=DB3C6578C591F8F56B64B8891C5790B316788CB1.BF3ACC58EEAF74A37F75DD81D30A96185C98FE5B&itag=22&title=Orthogonal+complement+of+the+orthogonal+complement+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Orthogonal Complement of the Nullspace",
+      "Link":"https://www.youtube.com/watch?v=LE_aQAur7nI",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7e.googlevideo.com/videoplayback?initcwndbps=4057500&lmt=1472370780804099&expire=1492382306&requiressl=yes&mime=video/mp4&ratebypass=yes&ipbits=0&upn=K4au72DB3tg&itag=22&ei=Ap7zWNyqF5KL1gLzo5HICA&id=o-AFtwpUSQbOLV54cX4u9u2xcHE6uQIxKjYbWHu3rn2ojh&ms=au&mt=1492360639&mv=m&dur=206.936&mm=31&source=youtube&pl=24&key=yt6&ip=159.253.144.86&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&signature=1C78411B573669418F110F57E910B00C8FC28048.5DF938959389CFD5F54C512A40F8C65B27FC3548&mn=sn-p5qs7n7e&title=Orthogonal+complement+of+the+nullspace+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Unique rowspace solution to Ax=b",
+      "Link":"https://www.youtube.com/watch?v=czIYvs9zj2g",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7z.googlevideo.com/videoplayback?upn=O34ER7KBHgY&id=o-AAkWwm7nVtmcuZDhEWJ0M0z4-rm6E9FiMkVjp0I-Bypo&ei=A57zWL6ZHYac1gL_xq3QCw&ip=159.253.144.86&key=yt6&ipbits=0&lmt=1471125813322842&mv=m&mt=1492360639&ms=au&mn=sn-p5qs7n7z&mm=31&dur=1151.918&itag=22&expire=1492382307&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&mime=video/mp4&signature=3848C86FF884B3A09D43100A44B1FCFECAE9EB11.52C2828F3F2B7E73F587163EF332DD8BE5A47336&requiressl=yes&pl=24&initcwndbps=4057500&ratebypass=yes&title=Unique+rowspace+solution+to+Ax+=+b+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Alg: Rowspace Solution to Ax=b example",
+      "Link":"https://www.youtube.com/watch?v=qdf2CuMGdKs",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?mm=31&initcwndbps=4057500&mime=video/mp4&requiressl=yes&ipbits=0&ratebypass=yes&expire=1492382309&itag=22&upn=NUZFjNo63Gc&pl=24&ip=159.253.144.86&key=yt6&mn=sn-p5qs7n76&signature=D4A68E86F2BBF10FFB2F94FF3303A763E57819.78F0A4984CC705080E6E51AB83B45325040585FF&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360639&ms=au&id=o-AP_gfCtpocdEnKHcuQ6QryqSKPILwxe2MQGGvj6_nBZM&ei=BJ7zWK-IPIrn1gKGk5aYCA&lmt=1471231408863383&source=youtube&dur=1177.925&title=Rowspace+solution+to+Ax+=+b+example+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Alg: Rowspace Solution to Ax=b example",
+      "Link":"https://www.youtube.com/watch?v=qdf2CuMGdKs",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?mt=1492360639&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&ms=au&id=o-AAAF7bJooep8Uky33UIMQdpqRnWPmdPVrkzkDlfPCvVC&mime=video/mp4&pl=24&mm=31&ip=159.253.144.86&key=yt6&mn=sn-p5qs7n76&expire=1492382311&ei=Bp7zWOuuOomL1gLW452QAQ&signature=CBD050ECABCE01BF64769A05F92BC41C9C7E9DE7.8EE0B04F1E48996F3926DC5DC9D5B1DFCF4209CB&requiressl=yes&itag=22&source=youtube&initcwndbps=4057500&dur=1177.925&upn=bF-wYimxzdo&ipbits=0&lmt=1471231408863383&ratebypass=yes&title=Rowspace+solution+to+Ax+=+b+example+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Showing that A-transpose x A is invertible",
+      "Link":"https://www.youtube.com/watch?v=ESSMQH6Y5OA",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?ms=au&mt=1492360639&mv=m&ip=159.253.144.86&key=yt6&upn=KO-pitw6Cf8&id=o-AHZZyMkvHrqFd687WGPaFVSqGb1aU2IqyMq-L2uSLKeJ&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mn=sn-p5qs7n7d&ei=CJ7zWKejOo3h1gLh45qwDA&lmt=1472346065175491&requiressl=yes&source=youtube&mm=31&dur=753.464&itag=22&pl=24&mime=video/mp4&expire=1492382313&ratebypass=yes&signature=757CDAC2DF538A70C0B1EF79F102B7CC137AD803.12C9D5A971F594FD2F5ECE76C839A026B78C7619&initcwndbps=4057500&ipbits=0&title=Showing+that+A-transpose+x+A+is+invertible+|+Matrix+transformations+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Projections onto Subspaces",
+      "Link":"https://www.youtube.com/watch?v=5B8XluiqdHM",
+      "unShortenedUrl":"https://r4---sn-p5qs7n76.googlevideo.com/videoplayback?pl=24&initcwndbps=4057500&dur=1045.733&ratebypass=yes&source=youtube&requiressl=yes&key=yt6&mime=video/mp4&expire=1492382315&lmt=1471235035461156&ipbits=0&itag=22&ms=au&signature=2482AACD1675E16A600E25114AADF237BC4C2DAD.A7ACD3647F4A163FE347DC550470EDC7305A9801&mv=m&mt=1492360639&mn=sn-p5qs7n76&mm=31&upn=6eMfeVA-hQo&id=o-AJJwnCurhSUdHouB3LlAhkJQGvRjc_AkVa3WywxS7ZQI&ip=159.253.144.86&ei=C57zWOPsA9vh1gLzpq_gDg&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Projections+onto+subspaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Alg: Visualizing a projection onto a plane",
+      "Link":"https://www.youtube.com/watch?v=uWbZlJURkfA",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7s.googlevideo.com/videoplayback?pl=24&initcwndbps=4057500&expire=1492382317&mime=video/mp4&requiressl=yes&ipbits=0&ratebypass=yes&itag=22&upn=QsknUD5GR24&mm=31&mt=1492360639&mv=m&id=o-AJ94e_vVVFfXnaj2_LPTbIuTET0lHabmbMOZjcNd-hRW&ei=DZ7zWN-RAsGR1gKltrCgAw&ms=au&source=youtube&lmt=1472279477286012&dur=567.240&ip=159.253.144.86&key=yt6&signature=467C0EDB8DB4DA00DB73A5F204EC0967FF94A16E.AB6F05BDC764A94AD2DA7603A56E14FDD17C28BA&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mn=sn-p5qs7n7s&title=Visualizing+a+projection+onto+a+plane+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: A Projection onto a Subspace is a Linear Transforma",
+      "Link":"https://www.youtube.com/watch?v=cTyNpXB92bQ",
+      "unShortenedUrl":"https://r5---sn-p5qs7n76.googlevideo.com/videoplayback?lmt=1472449748528668&ratebypass=yes&ipbits=0&mn=sn-p5qs7n76&mm=31&ip=159.253.144.86&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360639&ms=au&pl=24&mime=video/mp4&id=o-AImzvBkEB8Pj1bAiFUCv6mX5oilWMfZX74VffTRBfmsK&ei=Dp7zWMeJO9Lh1gKs7ZuICg&requiressl=yes&signature=42079237788E5695290B6EBADF7778E8523C1AC4.B9FB71A5F76965F4F8124BE42E449CA65D4EB688&itag=22&expire=1492382319&upn=0cQXQzHNhYU&initcwndbps=4057500&source=youtube&key=yt6&dur=975.029&title=A+projection+onto+a+subspace+is+a+linear+transformation++|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Subspace Projection Matrix Example",
+      "Link":"https://www.youtube.com/watch?v=QTcSBB3uVP0",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7d.googlevideo.com/videoplayback?pl=24&ei=EJ7zWL-OOIXW1gLJu6DoBQ&ipbits=0&upn=EMujpxY8PDk&ip=159.253.144.86&requiressl=yes&itag=22&ratebypass=yes&lmt=1471663315465920&dur=783.232&mime=video/mp4&key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382321&mm=31&mn=sn-p5qs7n7d&id=o-AGyO_R_mhCVTaH-bLSCN6J_jIfw7TmHjyFsG_Jqy_AXf&initcwndbps=4057500&source=youtube&signature=3DFB2FFCA7C55B9AEBC95711772E63DF9ECB2882.0F367BA17D042CA7CAE84AE6838122C65CB86F5F&mt=1492360639&mv=m&ms=au&title=Subspace+projection+matrix+example+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Another Example of a Projection Matrix",
+      "Link":"https://www.youtube.com/watch?v=XhCSHu6dHb8",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7d.googlevideo.com/videoplayback?ipbits=0&initcwndbps=4057500&mime=video/mp4&itag=22&mt=1492360639&ratebypass=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382323&upn=A6adAp3EKt4&key=yt6&mn=sn-p5qs7n7d&mm=31&id=o-AK7B-dSyzv9iXBs5iYgnNicr_fN04E2JH3yvIlzmKEG8&lmt=1472284259223111&ip=159.253.144.86&pl=24&dur=1295.232&mv=m&source=youtube&ms=au&ei=Ep7zWJqtOcSY1gLW5ZDQBQ&requiressl=yes&signature=3AE517C224D3CB9E5E9D84D9D4AE550B3F6B10A3.AA28E638E8A45F62DCF8DA63CF76EC26450D9FD3&title=Another+example+of+a+projection+matrix+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Alg: Projection is closest vector in subspace",
+      "Link":"https://www.youtube.com/watch?v=b269qpILOpk",
+      "unShortenedUrl":"https://r6---sn-p5qs7nee.googlevideo.com/videoplayback?itag=22&mv=m&mt=1492360639&requiressl=yes&ms=au&pl=24&mime=video/mp4&dur=544.438&id=o-ALkOpZVA3rElEJXtPg4u3K27E8oG3HkU53tlj-u1tsBv&mn=sn-p5qs7nee&ip=159.253.144.86&mm=31&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=FJ7zWICkPNPM1gKyiIvgBg&key=yt6&initcwndbps=4057500&expire=1492382325&ratebypass=yes&upn=iHL4iy_rlkY&signature=3ECF54F6EF3A07EC7F3330682966DD1137D54547.22106B4D5970A3E808B2C0992D8664E725CB6AC7&source=youtube&lmt=1470967426738622&ipbits=0&title=Projection+is+closest+vector+in+subspace+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Least Squares Approximation",
+      "Link":"https://www.youtube.com/watch?v=MC7l96tW8V8",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7s.googlevideo.com/videoplayback?ms=au&ei=GJ7zWJX4AYiA1gKjibSgCQ&mv=m&pl=24&mt=1492360639&signature=B8C4E19ED15FA9E866DEB5AF51224C2345B575B5.5B377C86D1BC6A235E402F28A853B4D679E3E1A3&key=yt6&mn=sn-p5qs7n7s&mm=31&id=o-ABk6fgOPSXm3btfyvbmcYBUrNOyNXSjpIpfG4KS8hXno&mime=video/mp4&dur=931.932&source=youtube&ip=159.253.144.86&requiressl=yes&itag=22&lmt=1471238754335440&ipbits=0&ratebypass=yes&initcwndbps=4057500&expire=1492382328&upn=hQND2BuuM7c&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Least+squares+approximation+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Least Squares Examples",
+      "Link":"https://www.youtube.com/watch?v=8mAZYv5wIcE",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?expire=1492382329&ratebypass=yes&dur=1129.465&ipbits=0&initcwndbps=4057500&itag=22&key=yt6&mime=video/mp4&ei=GZ7zWJivD5Gk1gLZ6LmYCg&signature=B5941DB5F273BA1CCC93576052873BB991AD10F5.894C5C5197750721346E4F3061EFB3214904F1BB&upn=FlGoJH880ho&source=youtube&lmt=1472292512423145&pl=24&id=o-ABiPB56wS9aVTEHf9f0cBA2lKmXMRNMBpEpML_shUgi9&mn=sn-p5qs7n7s&mm=31&ms=au&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360639&requiressl=yes&ip=159.253.144.86&title=Least+squares+examples+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Another Least Squares Example",
+      "Link":"https://www.youtube.com/watch?v=QkepM8Vv3kw",
+      "unShortenedUrl":"https://r6---sn-p5qs7n7s.googlevideo.com/videoplayback?ipbits=0&upn=sK6PwDoDbW0&pl=24&ei=G57zWNDYDcfG1wK82LGwAw&source=youtube&signature=2174D6D7937680C7728830E65BB2CBDCF1AB64AF.04A5DAF1AD5CDEF7D39D7EF487EDDAA3E989A802&ms=au&mt=1492360639&mv=m&id=o-AKnyRdIsh6M28FcLDJYFq_eZhe00ZR1qK-f5Bk-XGycZ&mm=31&mn=sn-p5qs7n7s&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mime=video/mp4&key=yt6&expire=1492382331&dur=804.733&lmt=1472031991951454&ip=159.253.144.86&itag=22&ratebypass=yes&requiressl=yes&title=Another+least+squares+example+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Coordinates with Respect to a Basis",
+      "Link":"https://www.youtube.com/watch?v=uvgru6FcyxU",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7d.googlevideo.com/videoplayback?requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&source=youtube&dur=967.738&lmt=1470989347903416&mn=sn-p5qs7n7d&ratebypass=yes&signature=28B0B39DD110ADD4477590C41CC222E23BE36526.BE9AB1D2FBDC969C97431B00E93FC3335EC72AED&initcwndbps=4057500&key=yt6&mime=video/mp4&ei=HZ7zWOmXIZed1gLG-IKIAw&expire=1492382333&upn=sujY0ZJWttg&id=o-AOmLmkGcyhLCmicZ93mszf_aLpctXnTO0K2xSlVR4y2b&pl=24&ms=au&mv=m&mt=1492360639&itag=22&ip=159.253.144.86&mm=31&ipbits=0&title=Coordinates+with+respect+to+a+basis+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Change of Basis Matrix",
+      "Link":"https://www.youtube.com/watch?v=1j5WnqwMdCk",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7s.googlevideo.com/videoplayback?signature=316B329CECCCAFF650F7B3C402A4F797BD0A5602.1A9D7001E2D33E77AD409B391076233B216E15C7&dur=1074.526&initcwndbps=4057500&lmt=1471579768590112&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ei=Hp7zWKjuOM-61gL2t53gCw&mn=sn-p5qs7n7s&pl=24&source=youtube&mm=31&ip=159.253.144.86&mime=video/mp4&requiressl=yes&expire=1492382335&mv=m&mt=1492360639&ms=au&id=o-AHU46gm9R3R1_EvREYe4UnfVHbtVlO6hJ0msIErvr9CO&ipbits=0&ratebypass=yes&key=yt6&upn=SSg_zFUb934&itag=22&title=Change+of+basis+matrix+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Invertible Change of Basis Matrix",
+      "Link":"https://www.youtube.com/watch?v=meibWcbGqt4",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?itag=22&ei=IZ7zWIoelJzWAveIn-AD&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ratebypass=yes&signature=A509A81DCB7A24DBA2D0645CFA87417393032FB4.77F934F0891DFAD574CA47FFF0E764EF2EF61E9C&mv=m&dur=813.232&mt=1492360639&ms=au&ip=159.253.144.86&expire=1492382337&initcwndbps=4057500&mn=sn-p5qs7n7s&ipbits=0&mm=31&id=o-AAhPnaiJdFBMZYkjCroEftEYxeGPtUfP2-wU97oBUvQR&lmt=1471767932525756&requiressl=yes&upn=NIE6HZ_zS7k&source=youtube&pl=24&mime=video/mp4&key=yt6&title=Invertible+change+of+basis+matrix+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Transformation Matrix with Respect to a Basis",
+      "Link":"https://www.youtube.com/watch?v=PiuhTj0zCf4",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7e.googlevideo.com/videoplayback?upn=ioiWcEToNaY&ei=I57zWN5P06fWAqz2gpAO&itag=22&key=yt6&mime=video/mp4&signature=A07BC74E9FB898E722DCF15B9784EB5DE2EAB8F2.BDAB84D083F003EAE55EB4D7FA5ADFAC49DCB99B&ratebypass=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&expire=1492382339&ipbits=0&ip=159.253.144.86&lmt=1472292927918726&initcwndbps=4057500&source=youtube&mv=m&mt=1492360639&ms=au&mn=sn-p5qs7n7e&pl=24&mm=31&requiressl=yes&dur=1081.933&id=o-AGEJ1CdwJ8PXx2us_kvIUlZFlDCcUoK0KcSQ2RURJ3RJ&title=Transformation+matrix+with+respect+to+a+basis+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Alternate Basis Tranformation Matrix Example",
+      "Link":"https://www.youtube.com/watch?v=lCRGNykWqFI",
+      "unShortenedUrl":"https://r1---sn-p5qs7nee.googlevideo.com/videoplayback?pl=24&signature=1EF51EE74EB6E77F3520B4D9AB45E0EFDF3E8113.E160E452B1D2E7C16AC84F73B11A3C3B591AEC1D&requiressl=yes&initcwndbps=4057500&ratebypass=yes&ei=JZ7zWO2LAoTS1gLG5oDoCw&id=o-AMmo-6lQnFQ8txGPTPSWZUiJCQaQFIR1YKfnFshl8Nss&upn=lwQEaiuAJN4&key=yt6&ip=159.253.144.86&ipbits=0&mt=1492360639&mv=m&ms=au&lmt=1473140123506513&mm=31&mn=sn-p5qs7nee&dur=799.648&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&itag=22&expire=1492382341&mime=video/mp4&source=youtube&title=Alternate+basis+transformation+matrix+example+|++Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Alternate Basis Tranformation Matrix Example Part 2",
+      "Link":"https://www.youtube.com/watch?v=EyORbCPUAd4",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7d.googlevideo.com/videoplayback?id=o-AHeJnWlXUK4YHn8KcpXPUfU7wv2bO_PB8IHV0cAOYLMO&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ms=au&itag=22&initcwndbps=4057500&ipbits=0&dur=755.252&mv=m&mt=1492360639&pl=24&mn=sn-p5qs7n7d&mm=31&ip=159.253.144.86&key=yt6&ei=Jp7zWL3hOMH71gK8vJDoCA&upn=GoLDAI8lgk0&source=youtube&signature=6A057945F8BB8D903328B7F0E2ABB90AC2E3D500.37D3E15F817AA1D5785467C59E4AD90DDB563035&expire=1492382343&lmt=1472435302130430&ratebypass=yes&mime=video/mp4&requiressl=yes&title=Alternate+basis+transformation+matrix+example+part+2+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Changing coordinate systems to help find a transformation matrix",
+      "Link":"https://www.youtube.com/watch?v=K_na_j1Msfg",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?ip=159.253.144.86&key=yt6&ipbits=0&upn=VMbu1gB56mQ&id=o-AJP3NcEVQ7TV6qk8ft0o3ka8H8V7kzu7vfBTOidtjIIU&ei=KZ7zWKijAsn51gLdlLmQCg&mn=sn-p5qs7n7s&mm=31&dur=1739.430&lmt=1471153587386406&mv=m&mt=1492360639&ms=au&source=youtube&mime=video/mp4&itag=22&expire=1492382345&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&ratebypass=yes&signature=40179B0AF926798E8EC1E478C4BAAF9E19623CBF.1DA21121516D763F5835AF6D246C02B1ECDA967B&requiressl=yes&pl=24&title=Changing+coordinate+systems+to+help+find+a+transformation+matrix+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Introduction to Orthonormal Bases",
+      "Link":"https://www.youtube.com/watch?v=7BFx8pt2aTQ",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?ratebypass=yes&upn=ANVGG-ZJhe4&ei=Kp7zWIT9O4681gKQ57fgCQ&mime=video/mp4&itag=22&key=yt6&ipbits=0&expire=1492382347&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4057500&lmt=1471418829785774&mt=1492360639&mv=m&ms=au&source=youtube&ip=159.253.144.86&mm=31&mn=sn-p5qs7n7z&pl=24&id=o-ACJ6NsS-5gMfXXjMj1xNoPSxVsgGx5nN7UE1qE-T21EX&signature=717FDC120528AD2D1EBA21FB512E7EA375D36F51.450A2EFCB0B0722DBECE43764393C09D95CD1A18&requiressl=yes&dur=675.723&title=Introduction+to+orthonormal+bases+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Coordinates with respect to orthonormal bases",
+      "Link":"https://www.youtube.com/watch?v=SWbis2zWIvo",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7d.googlevideo.com/videoplayback?ratebypass=yes&dur=927.730&initcwndbps=4057500&source=youtube&ei=LJ7zWLTjOITX1gKKpam4CQ&requiressl=yes&itag=22&lmt=1472079068437026&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ipbits=0&mv=m&upn=OCaPb0qakgg&mt=1492360639&ms=au&signature=704F7DF2AFA3119ADF2629906B8653B671E6910D.1B583AC1F0BA2B67A55FFF0856A2E2F4788B72AF&id=o-APDZw_qatJQDmI7TaubUYiJwO1_Cq3V92eSznbcRtMQd&mn=sn-p5qs7n7d&ip=159.253.144.86&mm=31&expire=1492382349&pl=24&mime=video/mp4&key=yt6&title=Coordinates+with+respect+to+orthonormal+bases+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Projections onto subspaces with orthonormal bases",
+      "Link":"https://www.youtube.com/watch?v=we829K4NOq8",
+      "unShortenedUrl":"https://r3---sn-p5qs7nee.googlevideo.com/videoplayback?requiressl=yes&lmt=1471052051056589&ei=MJ7zWKOkItOa1gKr543QCg&expire=1492382352&mime=video/mp4&itag=22&pl=24&dur=973.194&source=youtube&ipbits=0&initcwndbps=4057500&signature=D11A5278603D2E4435F3E29D2E34101C964D33F6.94AF2F889505F48D4A1A97725DAD9709F6753666&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ratebypass=yes&mn=sn-p5qs7nee&mm=31&id=o-ACaiM33GvYWdXlXApgnw4z2Q9VMJ9UzjBs_gDnTFW9cU&upn=63XH7hTSuPM&ip=159.253.144.86&key=yt6&mv=m&mt=1492360639&ms=au&title=Projections+onto+subspaces+with+orthonormal+bases+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Finding projection onto subspace with orthonormal basis example",
+      "Link":"https://www.youtube.com/watch?v=SUoqA9srY1Q",
+      "unShortenedUrl":"https://r3---sn-p5qs7n76.googlevideo.com/videoplayback?ratebypass=yes&expire=1492382353&lmt=1471810313804764&signature=7CA21198D1793C8AA5E8C29BC63E4FA2600B6C4D.2AA8BA98B367F7852E50B8D3F2ACC993DF1FB501&mime=video/mp4&upn=-dk-n0dOUAE&key=yt6&pl=24&initcwndbps=4057500&ipbits=0&requiressl=yes&ei=MZ7zWPzkLsjJ1wKToL74Cw&itag=22&dur=401.983&id=o-AMyebfuJM2YP05u5aSUMn2u3kbXKt0XxXvSuOH9Kbcw-&mn=sn-p5qs7n76&mm=31&ms=au&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mv=m&mt=1492360639&source=youtube&ip=159.253.144.86&title=Finding+projection+onto+subspace+with+orthonormal+basis+example+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg: Example using orthogonal change-of-basis matrix to find transformation ",
+      "Link":"https://www.youtube.com/watch?v=gfVY7cW7VLQ",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7e.googlevideo.com/videoplayback?expire=1492382355&itag=22&mime=video/mp4&ipbits=0&source=youtube&ratebypass=yes&lmt=1472279279389643&pl=24&upn=Htbb-nMZi68&signature=2DC477C402DBE726DBBCF6FF67B3AEB70F0C78C7.3835853721DE70E96DC16CADF734DAB59986A350&initcwndbps=4057500&mv=m&mt=1492360639&ms=au&id=o-AG6898NZGL1GgUqToFSjAcV67ms0MVi7pyhgOR-Z3rgf&mn=sn-p5qs7n7e&mm=31&key=yt6&ip=159.253.144.86&dur=1623.980&ei=M57zWMO6Bc6o1gLj_4HYCA&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Example+using+orthogonal+change-of-basis+matrix+to+find+transformation+matrix++|+Khan+Academy"
+   },
+   {  
+      "Name":"Lin Alg:  Orthogonal matrices preserve angles and lengths",
+      "Link":"https://www.youtube.com/watch?v=yDwIfYjKEeo",
+      "unShortenedUrl":"https://r4---sn-p5qs7n7z.googlevideo.com/videoplayback?mime=video/mp4&initcwndbps=4057500&ipbits=0&ratebypass=yes&itag=22&upn=T9-eA-aqd2U&expire=1492382357&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&key=yt6&id=o-ACKuSTE4BWbDcSYB3prHiPeCmJGorUl75X-fAfD5LtEr&mm=31&mn=sn-p5qs7n7z&ei=NJ7zWNHNOdKA1gLDyLzACA&ms=au&source=youtube&mv=m&dur=675.236&pl=24&ip=159.253.144.86&lmt=1472219507911676&requiressl=yes&mt=1492360639&signature=C8DEC4FD6FEE00E54700D0EFB3422A16B868BF74.78803EBD8683A0A0029AA912D516B75AE08AC093&title=Orthogonal+matrices+preserve+angles+and+lengths+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: The Gram-Schmidt Process",
+      "Link":"https://www.youtube.com/watch?v=rHonltF77zI",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7s.googlevideo.com/videoplayback?ipbits=0&key=yt6&itag=22&mime=video/mp4&signature=65E0484E201BCCC6665E64CA5ECC27F2645700F1.4F8003B379A984476B91EC72985594FB10C0927D&lmt=1472084948533036&ratebypass=yes&mn=sn-p5qs7n7s&mm=31&source=youtube&mv=m&mt=1492360639&ms=au&dur=1163.459&ei=Np7zWK2DO4mt1gLzsKr4BA&ip=159.253.144.86&upn=pW2sO31Bk-0&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-AIX8qdTZ42UjSaZLahxzqxeShinNRgUaMYLo63pVq_xO&expire=1492382359&pl=24&requiressl=yes&title=The+Gram-Schmidt+process+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Gram-Schmidt Process Example",
+      "Link":"https://www.youtube.com/watch?v=tu1GPtfsQ7M",
+      "unShortenedUrl":"https://r5---sn-p5qs7nee.googlevideo.com/videoplayback?ip=159.253.144.86&ratebypass=yes&mm=31&source=youtube&mn=sn-p5qs7nee&mt=1492360639&pl=24&mv=m&ei=OJ7zWLzTO8GP1gKZ9r_gBg&id=o-ABMcnN3TjC8jzTA2gd2kPXoj9F6jJSNRgd9E8XQAG3JW&ms=au&key=yt6&initcwndbps=4057500&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&lmt=1471853046398055&expire=1492382361&ipbits=0&signature=9725DE2733BCFAF585BCF3EA55A43ED5AD695EA8.D6D3A18C0934F95802C2B1CD7FD0B2DD207DCBE1&mime=video/mp4&dur=793.727&upn=WvTi37AWjeU&requiressl=yes&itag=22&title=Gram-Schmidt+process+example+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Gram-Schmidt example with 3 basis vectors",
+      "Link":"https://www.youtube.com/watch?v=ZRRG386v6DI",
+      "unShortenedUrl":"https://r1---sn-p5qs7n76.googlevideo.com/videoplayback?itag=22&ip=159.253.144.86&mm=31&ipbits=0&id=o-ALLJPq89Zz72o4-iV5uLT_-xMjF2OL3tfaUE3Ox_0f6A&pl=24&ms=au&mv=m&mt=1492360639&source=youtube&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ratebypass=yes&dur=836.940&lmt=1471158161389930&key=yt6&mime=video/mp4&ei=Op7zWJ6lOInb1gLolKXYDg&expire=1492382363&upn=90SaOy8xnQc&signature=BADE7BF051D0C2183C6BF9939BF1E51F5EBF01BE.4FBA7D534690BF9EBBB20652E7EE8169ADD3CB52&mn=sn-p5qs7n76&initcwndbps=4057500&title=Gram-Schmidt+example+with+3+basis+vectors+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Introduction to Eigenvalues and Eigenvectors",
+      "Link":"https://www.youtube.com/watch?v=PhfbEr2btGQ",
+      "unShortenedUrl":"https://r1---sn-p5qs7nee.googlevideo.com/videoplayback?ratebypass=yes&key=yt6&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&requiressl=yes&expire=1492382365&mt=1492360699&upn=pMFdeoVpFds&ei=PZ7zWN24H4mw1gK436CwAw&ip=159.253.144.86&lmt=1471846082711068&source=youtube&mv=m&mime=video/mp4&ms=au&signature=B800473C760F9FCCED78EC517DC02F601CB907F0.3AB72B27CBD802E6A0AA355B88589A777D365311&dur=462.239&initcwndbps=4032500&id=o-AFcl-RCEkZ2lv1diTo2J7mC12yPQz3t1RQHizo6-xH_q&pl=24&itag=22&mm=31&ipbits=0&mn=sn-p5qs7nee&title=Introduction+to+eigenvalues+and+eigenvectors+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Proof of formula for determining Eigenvalues",
+      "Link":"https://www.youtube.com/watch?v=rfm0wQObxjk",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7z.googlevideo.com/videoplayback?expire=1492382367&itag=22&mime=video/mp4&source=youtube&ratebypass=yes&lmt=1471157562670578&ipbits=0&upn=qwVSwtXxtEw&signature=93D985F5FD409464A06F42BF6228DCDD80397DAB.482CA0D5F68384704FB30C9B381B218AD188C447&id=o-AGNwfO5MHNKHoW1bUGChxfRNBn1moDZVZEFsCZlZFZjQ&ms=au&mt=1492360699&pl=24&mv=m&mm=31&initcwndbps=4032500&mn=sn-p5qs7n7z&key=yt6&ip=159.253.144.86&dur=558.741&ei=Pp7zWKagOMWz1gLrhL-wBQ&requiressl=yes&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Proof+of+formula+for+determining+eigenvalues+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Example solving for the eigenvalues of a 2x2 matrix",
+      "Link":"https://www.youtube.com/watch?v=pZ6mMVEE89g",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7l.googlevideo.com/videoplayback?id=o-AF0eUtzyjQCoJeApguUEPIhFlzci1ZOdJltEwHAF0Ter&source=youtube&dur=338.732&ip=159.253.144.86&itag=22&lmt=1473037773114663&requiressl=yes&mv=m&pl=24&mt=1492360699&ms=au&ei=QZ7zWIPhA9LA1gL-sqfgDQ&signature=A6D8934C79B87F3978501096752BFA0B80193CC2.32A06277B1FCACEE7902CCDC322905F5FFFE0D50&key=yt6&mn=sn-p5qs7n7l&mm=31&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4032500&ipbits=0&ratebypass=yes&expire=1492382369&mime=video/mp4&upn=A9zvw2Gr0m0&title=Example+solving+for+the+eigenvalues+of+a+2x2+matrix+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Finding Eigenvectors and Eigenspaces example",
+      "Link":"https://www.youtube.com/watch?v=3-xfmbdzkqc",
+      "unShortenedUrl":"https://r3---sn-p5qs7n7s.googlevideo.com/videoplayback?ei=Q57zWJTXBorI1gKfsaSoDg&requiressl=yes&signature=BF241691636477868E7D8850C59298C73F14BB62.0A3ECED87EBF44AA4B69D8C58DE0056BC2CA5719&itag=22&expire=1492382371&mn=sn-p5qs7n7s&mm=31&ip=159.253.144.86&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mt=1492360699&ms=au&pl=24&mime=video/mp4&id=o-AOBPdHk5KfFFry01b5QNbNYe11mK6myVcZJP4eTcycDh&lmt=1471071095288820&ratebypass=yes&upn=vstamfU_JBc&ipbits=0&initcwndbps=4032500&source=youtube&key=yt6&dur=873.929&title=Finding+eigenvectors+and+eigenspaces+example+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra: Eigenvalues of a 3x3 matrix",
+      "Link":"https://www.youtube.com/watch?v=11dNghWC4HI",
+      "unShortenedUrl":"https://r2---sn-p5qs7n7s.googlevideo.com/videoplayback?lmt=1472323359113013&ip=159.253.144.86&ei=RJ7zWN6MN4jv1gKNibiwCA&expire=1492382373&id=o-AFPQavNKStXjConcKaj4CW3iliKoSPZqUd7GkrCQfZz5&upn=vJYurEUeo0M&pl=24&initcwndbps=4032500&source=youtube&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ratebypass=yes&requiressl=yes&mime=video/mp4&ipbits=0&itag=22&mn=sn-p5qs7n7s&signature=57DFE2441950E6FD5BB0AF7C57119AEF521F626D.C9DDBA5BE5C7F912DDC48D5BE7B53818E23486B1&mm=31&key=yt6&dur=847.528&ms=au&mv=m&mt=1492360699&title=Eigenvalues+of+a+3x3+matrix+|+Alternate+coordinate+systems+(bases)+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Eigenvectors and Eigenspaces for a 3x3 matrix",
+      "Link":"https://www.youtube.com/watch?v=3Md5KCCQX-0",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7s.googlevideo.com/videoplayback?id=o-AHIIbKh_IBUvTjjfHT3tot65QNvC8yv1IsA8la0bewdx&ip=159.253.144.86&ei=Rp7zWJOTOI2F1gKovIjgDA&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&ms=au&signature=2ED41F6B1D38D8ADCE818D18FCEAC31B0F192A0C.CCB5C9DB233FF807DCB8DBA7AFC4B3913B7B5398&mv=m&mt=1492360699&mn=sn-p5qs7n7s&mm=31&upn=0xJ1cZOkHrY&key=yt6&mime=video/mp4&expire=1492382375&lmt=1471396236326809&ipbits=0&itag=22&pl=24&initcwndbps=4032500&dur=933.465&ratebypass=yes&source=youtube&requiressl=yes&title=Eigenvectors+and+eigenspaces+for+a+3x3+matrix+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Linear Algebra:  Showing that an eigenbasis makes for good coordinate systems",
+      "Link":"https://www.youtube.com/watch?v=C2PC9185gIw",
+      "unShortenedUrl":"https://r5---sn-p5qs7n76.googlevideo.com/videoplayback?ms=au&mt=1492360699&mv=m&ip=159.253.144.86&id=o-APP_bn0-jFTILw_o9VRwN0zhg6Wy4jBDwRt9RK14QWX6&requiressl=yes&dur=788.131&mm=31&mn=sn-p5qs7n76&pl=24&ratebypass=yes&ei=Sp7zWPjGBd6U1gKJzpaYAQ&source=youtube&mime=video/mp4&signature=0D6D20E401C406AFFF6C5FB0D05914CC445FD17F.C20CFC2EF20E271233A8CB96B336D3CAF170B499&key=yt6&itag=22&upn=omfJBlSTiDg&ipbits=0&expire=1492382378&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&initcwndbps=4032500&lmt=1471887413305759&title=Showing+that+an+eigenbasis+makes+for+good+coordinate+systems+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Vector Triple Product Expansion (very optional)",
+      "Link":"https://www.youtube.com/watch?v=b7JTVLc_aMk",
+      "unShortenedUrl":"https://r5---sn-p5qs7n7z.googlevideo.com/videoplayback?dur=864.734&lmt=1472429866534507&key=yt6&initcwndbps=4032500&ipbits=0&ratebypass=yes&id=o-AIgUJZBQ2puAW3b5vHd14SDNnavdYumdyqxp_9-uuDy3&mv=m&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&mn=sn-p5qs7n7z&ip=159.253.144.86&ei=S57zWIrQG4XV1gK8-KQI&ms=au&mt=1492360699&pl=24&itag=22&upn=9UZxy5_Dr30&mm=31&expire=1492382379&requiressl=yes&mime=video/mp4&source=youtube&signature=C64242D28CD440F0AFDAE8F49095B94380A5955E.2EAE0BB178F35BD4CEBC45A7D217797ACF5EF94E&title=Vector+triple+product+expansion+(very+optional)+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Normal vector from plane equation",
+      "Link":"https://www.youtube.com/watch?v=gw-4wltP5tY",
+      "unShortenedUrl":"https://r6---sn-p5qs7n76.googlevideo.com/videoplayback?key=yt6&source=youtube&mime=video/mp4&pl=24&lmt=1471958951737421&upn=VEWPox9yD7o&requiressl=yes&initcwndbps=4032500&ipbits=0&mm=31&mn=sn-p5qs7n76&id=o-ADyYc3NzIjRbfwFA7N2Cu8Klp9T4N52I95QiU7oPkGeB&mt=1492360699&mv=m&dur=597.426&ms=au&ip=159.253.144.86&expire=1492382381&ratebypass=yes&signature=B3E75650B5E32177B042B0B19A67F8E7F5359278.5EDD70217F63C863A3D6C32BD4F8DCF9B6F8F107&ei=TZ7zWIPZBYft1gKkyo64CA&itag=22&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&title=Normal+vector+from+plane+equation+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Point distance to plane",
+      "Link":"https://www.youtube.com/watch?v=7rIFO8hct9g",
+      "unShortenedUrl":"https://r1---sn-p5qs7n7z.googlevideo.com/videoplayback?sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&lmt=1471251212593699&ipbits=0&source=youtube&initcwndbps=4032500&ei=T57zWOGFC8LU1gL6x7t4&itag=22&requiressl=yes&mm=31&ip=159.253.144.86&mn=sn-p5qs7n7z&pl=24&expire=1492382383&mt=1492360699&upn=6upSJpOvMzo&mv=m&ms=au&signature=4A3F73BB7E9C107E8748516EF1B479679878970D.3C0EE43C9B8AD6424EDEE90B255EC9AE7F7E399F&id=o-AFKfqJANUzK7NXWl-XDEXc-by0p8k_8lJQQlgWTHF1Nl&mime=video/mp4&key=yt6&ratebypass=yes&dur=731.916&title=Point+distance+to+plane+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   },
+   {  
+      "Name":"Distance Between Planes",
+      "Link":"https://www.youtube.com/watch?v=v8plb6V8BQo",
+      "unShortenedUrl":"https://r2---sn-p5qs7nee.googlevideo.com/videoplayback?requiressl=yes&mime=video/mp4&expire=1492382385&ratebypass=yes&lmt=1472451435641886&signature=1AC9A16A5C9B4269A960E34E2DF7B14F8FCED3EF.B99D93C923557FF10DBDBF2609A238F8DB62D385&upn=xSV_La8vrBU&source=youtube&ip=159.253.144.86&key=yt6&ei=UJ7zWO2fOMHE1wLfyLyoDQ&mn=sn-p5qs7nee&ipbits=0&mm=31&pl=24&sparams=dur,ei,id,initcwndbps,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,ratebypass,requiressl,source,upn,expire&id=o-ALVWl67zyFU_dF0HkqvN3KGO6O8Qbyr2FWGIJWW7PWjm&mv=m&dur=884.540&mt=1492360699&itag=22&ms=au&initcwndbps=4032500&title=Distance+between+planes+|+Vectors+and+spaces+|+Linear+Algebra+|+Khan+Academy"
+   }
+]

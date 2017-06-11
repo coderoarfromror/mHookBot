@@ -1,0 +1,21 @@
+ 
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+                            {
+                                "conten_type": "text",
+                                "title": "Linear",
+                                "payload": "pre-calculus-linear-system-of-equations-calculator"
+                            },
+                                 {
+                                "content_type": "text",
+                                "title": "Non-linear",
+                                "payload": "pre-calculus-non-linear-system-of-equations-calculator"
+                            }
+                            ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add/Subtract",
+        "payload":"matrix-add-subtract-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiply/Power",
+        "payload":"matrix-multiply-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Trace",
+        "payload":"matrix-trace-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Transponse",
+        "payload":"matrix-transpose-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Determinant",
+        "payload":"matrix-determinant-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Inverse",
+        "payload":"matrix-inverse-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Rank",
+        "payload":"matrix-rank-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"More",
+        "payload":"More Matrices/More Quick Reply"
+      }
+        ]
+  }
+}

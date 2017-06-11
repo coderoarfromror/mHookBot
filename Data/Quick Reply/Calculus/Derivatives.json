@@ -1,0 +1,46 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"First Derivative",
+        "payload":"first-derivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Second Derivative",
+        "payload":"second-derivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Third Derivative",
+        "payload":"third-derivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Higher Order",
+        "payload":"higher-order-derivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"at a point",
+        "payload":"derivative-point-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Partial Derivative",
+        "payload":"implict-derivative-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Implicit Derivative",
+        "payload":"partial-derivative-calculator"    
+        }
+      ]
+  }
+}   

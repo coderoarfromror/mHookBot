@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Prime Factorization",
+        "payload":"prime-factorization-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Factors",
+        "payload":"factors-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"LCM",
+        "payload":"lcm-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"GCF",
+        "payload":"gcf-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Divisibility",
+        "payload":"dibisibility-calculator"
+      }
+    ]
+  }
+}

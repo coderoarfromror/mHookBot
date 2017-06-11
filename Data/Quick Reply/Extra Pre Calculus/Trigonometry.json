@@ -1,0 +1,27 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+       {
+                "content_type": "text",
+                "title": "Proving Identities",
+                "payload": "pre-calculus-trigonometric-identity-calculator"
+       },
+       {
+                "content_type": "text",
+                "title": "Trigonometric Equations",
+                "payload": "pre-calculus-trigonometric-equation-calculator"
+                },
+                                {
+                                "content_type": "text",
+                                "title": "Evaluate Functions",
+                                "payload": "pre-calculus-trigonometric-function-calculator"
+                                    
+                                }
+        ]
+  }
+}

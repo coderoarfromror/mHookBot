@@ -1,0 +1,40 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Linear",
+        "payload":"pre-calculus-linear-inequalities-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Quadratic",
+        "payload":"pre-calculus-quadratic-inequalities-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Absolute",
+        "payload":"pre-calculus-absolute-inequalities-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Radical",
+        "payload":"pre-calculus-radical-inequalities-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Logarithmic",
+        "payload":"pre-calculus-logarithmic-inequalities-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Exponential",
+        "payload":"pre-calculus-exponential-inequalities-calculator"
+      }
+        ]
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Exponents",
+        "payload":"exponents-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Logarithms",
+        "payload":"logarithms-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Radicals",
+        "payload":"radicals-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Absolute Value",
+        "payload":"absolute-value-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Complex Numbers",
+        "payload":"complex-numbers-calculator"
+      }
+        ]
+  }
+}

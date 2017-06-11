@@ -1,0 +1,87 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Functions",
+                  "subtitle":"Solve pre-calculus equations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-functions-calculator",
+                  "image_url":"http://wisestem.com/files/attach/images/112/117/9ba51c049ba683f02e2b8a3995a79f72.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Domain",
+                        "payload":"pre-calculus-function-domain-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Range",
+                        "payload":"pre-calculus-function-range-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Pre Calculus Functions",
+                        "payload":"More Extra Pre Calculus/Functions Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Arithmetic and Compositions",
+                  "subtitle":"Evaluate function at a value, compositions and arithmetics step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-function-arithmetic-composition-calculator",
+                  "image_url":"http://wisestem.com/files/attach/images/112/117/9ba51c049ba683f02e2b8a3995a79f72.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Compositions",
+                        "payload":"pre-calculus-function-composition-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Arithmetics",
+                        "payload":"pre-calculus-function-arithmetic-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Trigonometry",
+                  "subtitle":"Calculate trignometric equations, prove identities and evaluate functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-trigonometry-calculator",
+                  "image_url":"http://wisestem.com/files/attach/images/112/117/9ba51c049ba683f02e2b8a3995a79f72.png",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Domain",
+                        "payload":"pre-calculus-function-domain-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Range",
+                        "payload":"pre-calculus-function-range-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Conic Sections",
+                  "subtitle":"Calculate area, circumferences, diameters, and radius for circles and ellipses, parabolas and hyperbolas step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/pre-calculus-conic-sections-calculator",
+                  "image_url":"http://wisestem.com/files/attach/images/112/117/9ba51c049ba683f02e2b8a3995a79f72.png",
+                  "buttons":[  
+                     {  
+                        "type":"web_url",
+                        "title":"View Website",
+                        "url":"https://www.symbolab.com/solver/pre-calculus-conic-sections-calculator"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

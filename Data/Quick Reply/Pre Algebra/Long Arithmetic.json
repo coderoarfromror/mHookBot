@@ -1,0 +1,31 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Long Addition",
+        "payload":"long-addition--calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Long Subtraction",
+        "payload":"long-subtraction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Long Multiplication",
+        "payload":"long-multiplication-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Long Division",
+        "payload":"long-division-calculator"
+      }
+    ]
+  }
+}

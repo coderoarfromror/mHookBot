@@ -1,0 +1,26 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Line",
+        "payload":"pre-calculus-line-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Distance",
+        "payload":"pre-calculus-distance-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Midpoint",
+        "payload":"pre-calculus-midpoint-calculator"
+      }
+        ]
+  }
+}

@@ -1,0 +1,24 @@
+,
+                        {
+                            "title": "Geometry",
+                            "subtitle": "Calculate properties of planes, coordinates and 3d shapes step-by-step",
+                            "item_url": "https://www.symbolab.com/solver/geometry-calculator",
+                            "image_url": "http://i.imgur.com/Sfx8iG3.png",
+                            "buttons": [
+                             {
+                                "type": "postback",
+                                "payload": "Plane Geometry",
+                                "title": "Plane Geometry"
+                            },  
+                             {
+                                "type": "postback",
+                                "title": "Coordinate Geometry",
+                                "payload": "More Coordinate Geometry"
+                            },
+                             {
+                                    "type": "postback",
+                                    "title": "More",
+                                    "payload": "More Geometry"
+                                }
+                            ]
+                        }

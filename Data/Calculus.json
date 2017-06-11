@@ -1,0 +1,192 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Limits",
+                  "subtitle":"Calculate limits, integrals, derivatives and series step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/calculus-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Evaluate Limits",
+                        "payload":"limit-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Integrals",
+                  "subtitle":"Integrate functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/integral-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Indefinite",
+                        "payload":"indefinite-integral-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Definite",
+                        "payload":"definite-integral-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Integrals Calculator",
+                        "payload":"More Calculus/Integrals Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Derivatives",
+                  "subtitle":"Differentiate functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/derivative-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"First Derivative",
+                        "payload":"first-derivative-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Second Derivative",
+                        "payload":"second-derivative-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Derivatives Calc.",
+                        "payload":"More Calculus/Derivatives Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Derivates Applications",
+                  "subtitle":"Find derivative application solutions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/derivative-applications-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Tangent",
+                        "payload":"tangent-line-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Normal",
+                        "payload":"normal-line-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Applications List",
+                        "payload":"More Calculus/Derivatives Applications Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Series",
+                  "subtitle":"Test infinite series for convergence step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/series-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Convergence Series",
+                        "payload":"series-convergence-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Absolute Series",
+                        "payload":"series-absolute-convergence-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Calculus/Series Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"ODE",
+                  "subtitle":"Solve ordinary differential equations (ODE) step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/ordinary-differential-equation-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear 1st Order",
+                        "payload":"linear-first-order-differential-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Separable",
+                        "payload":"separable-first-order-differential-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"ODE Solution",
+                        "payload":"More Calculus/ODE Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Laplace Transform",
+                  "subtitle":"Find the Laplace and inverse Laplace transforms of functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/laplace-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Transform",
+                        "payload":"laplace-transform-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Inverse",
+                        "payload":"inverse-laplace-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Taylor and Maclaurin Series",
+                  "subtitle":"Find the Taylor/Maclaurin series representation of functions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/taylor-maclaurin-series-calculator",
+                  "image_url":"http://static1.squarespace.com/static/51bf8df9e4b0356bbe29225f/t/55484017e4b06b185ec198f4/1430798360737/?format=1000w",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Taylor",
+                        "payload":"taylor-series-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Maclaurin",
+                        "payload":"maclaurin-series-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Go Back Main",
+                  "subtitle":"Back To The First List",
+                  "item_url":"https://www.symbolab.com/solver",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Go Back",
+                        "payload":"More Main"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

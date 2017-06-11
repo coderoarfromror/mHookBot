@@ -1,0 +1,55 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add/Subtract",
+        "payload":"vector-add-subtract-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Scalar Multiplication",
+        "payload":"vector-scalar-multiplaction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Dot Product",
+        "payload":"vector-dot-product-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Cross Product",
+        "payload":"vector-Angle-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Magnitude",
+        "payload":"vector-magnitude-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Angle",
+        "payload":"vector-angle-calculator"
+        },
+        {
+        "content_type":"text",
+        "title":"Unite",
+        "payload":"vector-unite-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Projection",
+        "payload":"vector-projection-calculator"
+        },
+        {
+        "content_type":"text",
+        "title":"Scalar Projection",
+        "payload":"vector-scalar-projection-calculator"
+        }
+        ]
+  }
+}

@@ -1,0 +1,16 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Calculate Percent",
+        "payload":"percent-calculator"
+      }
+        ]
+  }
+}

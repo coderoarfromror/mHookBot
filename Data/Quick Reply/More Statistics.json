@@ -1,0 +1,35 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Variance",
+        "payload":"variance-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Lower Quartile",
+        "payload":"lower-quartile-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Upper Quartile",
+        "payload":"upper-quartile-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Interquartile Range",
+        "payload":"interquartile-range-calculator"
+      },
+         {
+        "content_type":"text",
+        "title":"Midhinge",
+        "payload":"midhinge-calculator"
+         }
+    ]
+  }
+}

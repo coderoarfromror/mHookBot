@@ -1,0 +1,94 @@
+[  
+   {  
+      "Algebra":[  
+         "Basic Operations.json",
+         "Equations.json",
+         "Expressions.json",
+         "Inequalities.json",
+         "Partial Fractions.json",
+         "Polynomials.json",
+         "Properties.json",
+         "Rational Expressions.json",
+         "System of Equations.json",
+         "System of Inequalities.json"
+      ]
+   },
+   {  
+      "Calculus":[  
+         "Derivatives Applications.json",
+         "Derivatives.json",
+         "Integrals.json",
+         "Laplace.json",
+         "Limits.json",
+         "ODE.json",
+         "Series.json",
+         "Taylor.json"
+      ]
+   },
+   {  
+      "Extra Pre Calculus":[  
+         "Arithmetic and Compositions.json",
+         "Functions.json",
+         "Trigonometry.json"
+      ]
+   },
+   {  
+      "Functions and Graphing":[  
+         "Arithmetic.json",
+         "Conic Sections.json",
+         "Functions.json",
+         "Line Equations.json"
+      ]
+   },
+   {  
+      "Main":[  
+         "Matrices.json",
+         "Vectors.json"
+      ]
+   },
+   {  
+      "Matrices":[  
+         "More.json"
+      ]
+   },
+   {  
+      "Pre Algebra":[  
+         "Decimals.json",
+         "Exponents and Radicals.json",
+         "Factors and Primes.json",
+         "Fractions.json",
+         "Long Arithmetic.json",
+         "Mean Median and Mode.json",
+         "Order Of Operations.json",
+         "Percent.json",
+         "Ratios and Proportions.json"
+      ]
+   },
+   {  
+      "Pre Calculus":[  
+         "Complex Numbers.json",
+         "Coordinate Geometry.json",
+         "Equations.json",
+         "Inequalities.json",
+         "Polynomials.json",
+         "Rationales.json",
+         "System of Equations.json",
+         "System of Inequalities.json"
+      ]
+   },
+   {  
+      "QR":[  
+         "Statistics.json"
+      ]
+   },
+   {  
+      "QR":[  
+         "More Statistics.json"
+      ]
+   },
+   {  
+      "QR":[  
+         "Trigonometry.json"
+      ]
+   }
+]

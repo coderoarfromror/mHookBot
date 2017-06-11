@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Reduce",
+        "payload":"fractions-reduce-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Add/Subtract",
+        "payload":"fractions-add-subtract-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiply",
+        "payload":"fractions-multiply-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Divide",
+        "payload":"fractions-divide-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Compare",
+        "payload":"fractions-compare-calculator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+[  
+   {  
+      "title":"Let's learn typing simple/complicated expressions",
+      "subtitle":"Speciy how you'd want to learn to type math expressions",
+      "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/MathematicaTypesetExpression.png/220px-MathematicaTypesetExpression.png",
+      "buttons":[  
+         {  
+            "type":"postback",
+            "title":"📼Videos",
+            "payload":"Expressions Videos"
+         },
+         {  
+            "type":"postback",
+            "title":"📚 PDF-Document",
+            "payload":"Expressions PDF"
+         },
+         {  
+            "type":"postback",
+            "title":"🔳 Images",
+            "payload":"Expressions Images"
+         }
+      ]
+   }
+]

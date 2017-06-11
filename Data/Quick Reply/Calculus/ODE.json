@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Linear 1st Order",
+        "payload":"linear-first-order-differential-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Separable",
+        "payload":"separable-first-order-differential-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Bernouli",
+        "payload":"bernouli-first-order-differential-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Exact",
+        "payload":"exact-first-order-differential-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Second Order",
+        "payload":"second-order-differential-equation-calculator"
+      }
+     ]
+  }
+}

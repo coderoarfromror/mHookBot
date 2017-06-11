@@ -1,0 +1,40 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Line",
+        "payload":"line-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Slope",
+        "payload":"slope-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Distance",
+        "payload":"distance-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"MidPoint",
+        "payload":"midpoint-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Parellal",
+        "payload":"parallel-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Perpendicular",
+        "payload":"perpendicular-calculator"
+      }
+    ]
+  }
+}

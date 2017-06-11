@@ -1,0 +1,30 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method & Input Problem:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add/Subtract",
+        "payload":"exponents-multiplication-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiplcation",
+        "payload":"exponents-powers-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Division",
+        "payload":"exponents-division-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Roots",
+        "payload":"exponents-roots-calculator"
+      }
+    ]
+  }
+}

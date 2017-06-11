@@ -1,0 +1,205 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Order of Operations",
+                  "subtitle":"Solve algebra problems following PEMDAS order step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/order-of-operations-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Get Order",
+                        "payload":"order-of-operations-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Factors and Primes",
+                  "subtitle":"Find prime factorization, factors, lcm, gcf and divisibility step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/factors-primes-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Prime Factorization",
+                        "payload":"prime-factorization-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Factors",
+                        "payload":"factors-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra/Factors and Primes Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Fractions",
+                  "subtitle":"Add, Subtract, Reduce, Divide and Multiply fractions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/fractions-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Reduce",
+                        "payload":"fractions-reduce-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Add/Subtract",
+                        "payload":"fractions-add-subtract-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra/Fractions Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Long Arithmetic",
+                  "subtitle":"Apply long addition, subtraction, multiplication and division step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/long-arithmetic-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Long Addition",
+                        "payload":"long-addition--calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Long Subtraction",
+                        "payload":"long-subtraction-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra/Long Arithmetic Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Decimals",
+                  "subtitle":"Add, subtract and multiply decimals step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/decimals-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Add/Subtract",
+                        "payload":"decimals-addition-subtraction-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Multiplcation",
+                        "payload":"decimals-multiplication-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra/Decimals Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Exponents and Radicals",
+                  "subtitle":"Apply exponent and radicals rules to multiply divide and simplify exponents and radicals step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/exponents-radicals-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Add/Subtract",
+                        "payload":"exponents-multiplication-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Multiplcation",
+                        "payload":"exponents-powers-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Pre Algebra/Exponents and Radicals Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Ratios and Proportions",
+                  "subtitle":"Compare ratios, convert ratios to fractions and find unknowns step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/ratios-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Find R&P",
+                        "payload":"ratios-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Percent",
+                  "subtitle":"Find percent variations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/percent-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Calculate Percent",
+                        "payload":"percent-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Mean,Median and Mode",
+                  "subtitle":"Find Mean, Median & Mode step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/mean-median-mode-calculator",
+                  "image_url":"https://www.enasco.com/prod/images/products/14/AC095629l.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Mean",
+                        "payload":"mean-solverr"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Median",
+                        "payload":"median-solver"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Mode",
+                        "payload":"mode-solver"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Go Back Main",
+                  "subtitle":"Back To The First List",
+                  "item_url":"https://www.symbolab.com/solver",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Go Back",
+                        "payload":"More Main"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

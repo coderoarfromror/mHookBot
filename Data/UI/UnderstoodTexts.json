@@ -1,0 +1,50 @@
+[{
+        "title": "Related To Searching with a keyword",
+        "subtitle": "A message with keyword to Look for",
+        "image_url": "http://cdn2.codenutz.com/blog/wp-content/uploads/2014/01/keyword-research.jpg",
+        "buttons": [{
+                "type": "postback",
+                "title": "📙 Asking For Courses",
+                "payload": "Understood Tutorials"
+            },
+            {
+                "type": "postback",
+                "title": "📖 Exercises/Examples",
+                "payload": "Understood Examples"
+            }
+        ]
+    },
+    {
+        "title": "Related To Natural Language",
+        "subtitle": "A normal message",
+        "image_url": "https://previews.123rf.com/images/radiantskies/radiantskies1211/radiantskies121101501/16498750-Abstract-word-cloud-for-Natural-language-with-related-tags-and-terms-Stock-Photo.jpg",
+        "buttons": [{
+                "type": "postback",
+                "title": "👏 Greeting",
+                "payload": "Understood Greeting"
+            },
+            {
+                "type": "postback",
+                "title": "😊 Thanking",
+                "payload": "Understood Thanking"
+            }
+        ]
+    },
+    {
+        "title": "Related To Helping You",
+        "subtitle": "A message in it you're asking me for help without something to search" ,
+        "image_url": "http://img.pixady.com/2017/05/884368_statistics.png",
+        "buttons": [{
+                "type": "postback",
+                "title": "Ⓜ What am I",
+                "payload": "Understood Identification"
+            },
+            {
+                "type": "postback",
+                "title": "🔑 How to use me",
+                "payload": "Understood BotUsing"
+            }
+        ]
+    }
+    
+    ]

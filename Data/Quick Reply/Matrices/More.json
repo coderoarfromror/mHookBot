@@ -1,0 +1,40 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Minors & Cofactors",
+        "payload":"matrix-minors-cofactors-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Characteristic Polynomial",
+        "payload":"matrix-characteristic-polynomial-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Gauss Jordan Reduction",
+        "payload":"matrix-gauss-jordan-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Eigenvalues",
+        "payload":"matrix-eigenvalues-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Eigenvectors",
+        "payload":"matrix-eigenvectors-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Diagonalization",
+        "payload":"matrix-diagonalization-calculator"
+        }
+        ]
+  }
+}

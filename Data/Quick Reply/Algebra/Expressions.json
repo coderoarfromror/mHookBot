@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add",
+        "payload":"rational-erxpressions-addition-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Subtract",
+        "payload":"rational-expressions-subtraction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiply",
+        "payload":"rational-expressions-multiplication-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Divide",
+        "payload":"rational-expressions-division-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Reduce",
+        "payload":"rational-expressions-reduce-calculator"
+      }
+        ]
+  }
+}

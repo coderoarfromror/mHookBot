@@ -1,0 +1,200 @@
+{  
+   "recipient":{  
+      "id":""
+   },
+   "message":{  
+      "attachment":{  
+         "type":"template",
+         "payload":{  
+            "template_type":"generic",
+            "elements":[  
+               {  
+                  "title":"Equations",
+                  "subtitle":"Solve linear, quadratic, biquadratic. absolute and radical equations, step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/equation-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear",
+                        "payload":"linear-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Quadratic",
+                        "payload":"quadratic-equation-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Equations Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Inequalities",
+                  "subtitle":"Solve linear, quadratic and absolute inequalities, step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/inequalities-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Inequalities Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"System of Equations",
+                  "subtitle":"Solve system of non linear equations step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/system-of-equations-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Linear",
+                        "payload":"linear-system-of-equations-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Non Linear",
+                        "payload":"non-linear-system-of-equations-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"System of Inequalities",
+                  "subtitle":"Graph system of inequalities and find intersections step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/system-of-inequalities-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Inequalities System",
+                        "payload":"system-of-inequalities-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Basic Operations",
+                  "subtitle":"Factor, Join, Expand and Cancel algebraic expressions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/basic-operations-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Simplify",
+                        "payload":"Simplify-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Factor",
+                        "payload":"factor-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Basic Operations Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Algebra Properties",
+                  "subtitle":"Simplify radicals, exponents, logarithms, absolute values and complex numbers step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/algebraic-properties-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Exponents",
+                        "payload":"exponents-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Logarithms",
+                        "payload":"logarithms-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Properties Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Partial Fractions",
+                  "subtitle":"Find the partial fractions of a fractions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/partial-fractions-calculator/",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Solve PFs",
+                        "payload":"partial-fractions-calculator"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Polynomials",
+                  "subtitle":"Add, subtract, multiply, divide and factor polynomials step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/polynomial-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Add",
+                        "payload":"polynomial-addition-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Subtract",
+                        "payload":"polynomial-subtraction-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Polynomials Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Rational Expressions",
+                  "subtitle":"Add, subtract, multiply, divide and cancel rational expressions step-by-step",
+                  "item_url":"https://www.symbolab.com/solver/rational-expression-calculator",
+                  "image_url":"http://www.calculators.org/graphics/algebra.jpg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Add",
+                        "payload":"rational-erxpressions-addition-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"Subtract",
+                        "payload":"rational-expressions-subtraction-calculator"
+                     },
+                     {  
+                        "type":"postback",
+                        "title":"More",
+                        "payload":"More Algebra/Rational Expressions Quick Reply"
+                     }
+                  ]
+               },
+               {  
+                  "title":"Go Back Main",
+                  "subtitle":"Back To The First List",
+                  "item_url":"https://www.symbolab.com/solver",
+                  "image_url":"https://imgix.ttcdn.co/i/product/original/0/324085-d4d2c515a01f4c07914691f889e3b66e.png?w=1000&q=100&auto=format%2Ccompress&fm=jpeg",
+                  "buttons":[  
+                     {  
+                        "type":"postback",
+                        "title":"Go Back",
+                        "payload":"More Main"
+                     }
+                  ]
+               }
+            ]
+         }
+      }
+   }
+}

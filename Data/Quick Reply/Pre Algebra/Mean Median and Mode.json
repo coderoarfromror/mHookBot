@@ -1,0 +1,26 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Mean",
+        "payload":"mean-solverr"
+      },
+         {
+        "content_type":"text",
+        "title":"Median",
+        "payload":"median-solver"
+      },
+         {
+        "content_type":"text",
+        "title":"Mode",
+        "payload":"mode-solver"
+      }
+        ]
+  }
+}

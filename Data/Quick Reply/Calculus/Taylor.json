@@ -1,0 +1,21 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+{
+                                "content_type": "text",
+                                    "title": "Taylor",
+                                "payload": "taylor-series-calculator"
+                                },
+                                {
+                                "content_type": "text",
+                                    "title": "Maclaurin",
+                                "payload": "maclaurin-series-calculator"
+                                } 
+     ]
+  }
+}

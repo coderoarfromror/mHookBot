@@ -1,0 +1,51 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Linear",
+        "payload":"linear-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Quadratic",
+        "payload":"quadratic-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Solve For",
+        "payload":"solve-for-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Biquadratic",
+        "payload":"biquadratic-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Radical",
+        "payload":"radical-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Logarithmic",
+        "payload":"logarithmic-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Exponential",
+        "payload":"exponential-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Absolute",
+        "payload":"absolute-equation-calculator"
+      }
+        ]
+  }
+}

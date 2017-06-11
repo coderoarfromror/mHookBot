@@ -1,0 +1,37 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Tangent",
+        "payload":"tangent-line-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Normal",
+        "payload":"normal-line-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Curved Line Slop",
+        "payload":"curved-line-slope-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Extreme Points",
+        "payload":"calculus-function-extreme-points-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Tangent to Conic",
+        "payload":"tangent-to-conic-calculator"
+      }
+        ]
+  }
+        
+}   

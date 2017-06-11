@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Add",
+        "payload":"polynomial-addition-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Subtract",
+        "payload":"polynomial-subtraction-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Multiply",
+        "payload":"polynomial-multiplication-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Divide",
+        "payload":"polynomial-long-division-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Factor",
+        "payload":"polynomial-factorizations-calculator"
+      }
+        ]
+  }
+}

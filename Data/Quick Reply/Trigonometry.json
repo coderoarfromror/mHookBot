@@ -1,0 +1,30 @@
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Proving Identities",
+        "payload":"trigonometric-identity-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Tri Equations",
+        "payload":"trigonometric-equation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Evaluate Functions",
+        "payload":"trigonometric-function-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Simplify",
+        "payload":"trigonometric-simplification-calculator"
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Simplify",
+        "payload":"Simplify-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Factor",
+        "payload":"factor-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Expand",
+        "payload":"expand-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Join",
+        "payload":"join-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Cancel",
+        "payload":"cancel-calculator"
+      }
+        ]
+  }
+}

@@ -1,0 +1,66 @@
+
+{
+"recipient":{
+    "id":""
+  },
+  "message":{
+    "text":"Choose a Method:",
+    "quick_replies":[
+        {
+        "content_type":"text",
+        "title":"Arithmetic Mean",
+        "payload":"arithmetic-mean-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Geometric Mean",
+        "payload":"geometric-mean-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Quadratic Mean",
+        "payload":"quadratic-mean-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Median",
+        "payload":"median-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Mode",
+        "payload":"mode-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Minimum",
+        "payload":"minimum-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Maximum",
+        "payload":"mid-range-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Mide-Range",
+        "payload":"median-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Range",
+        "payload":"range-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"Standard Deviation",
+        "payload":"standard-deviation-calculator"
+      },
+        {
+        "content_type":"text",
+        "title":"More",
+        "payload":"More Statistics Quick Reply"
+      }
+    ]
+  }
+}
