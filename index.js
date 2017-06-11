@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 'use strict';
 const util = require('util'),
     fs = require('fs'),
@@ -4062,5 +4061,3 @@ function getTutorials(senderID, Keyword) {
     }
 }
 
->>>>>>> 07b850870e01fdad9a35e6017a7fb0dc7665c5ce
->>>>>>> 28c8cb1be9c66d4ad74e49fb86c8981db82d71f2
